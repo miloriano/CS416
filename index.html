@@ -113,7 +113,6 @@ table#coTbl td:nth-of-type(4), table#coTbl td:nth-of-type(5), table#coTbl td:nth
 
 $(document).ready(function() {
 
-	// define Data Storyteller widget options
 	var options = { 
 		id: "dashmain",
 		title: "FORTUNE 1000 Companies Data Chart",
@@ -143,11 +142,8 @@ $(document).ready(function() {
 		bubbleFilterCallback: "myCallbackFunction"
 	};
 	
-	// create visualization in the "dashmain" DIV
 	$("#dashmain").GraphObj(options);
 
-	// Am using the jQuery plugin called Chosen to make the dropdowns nicer/searchable.
-	// The following lines initialize all the filter dropdowns.
 	setTimeout(function(){
 		$(".filterRow select").each(function(index) {
 			$(this).chosen();
@@ -163,41 +159,25 @@ function numberWithCommas(x) {
 }
 
 
-// This function is called after the user clicks a bubble or makes a selection from a filter.
-// Both callback parameters (bubbleClickCallback and bubbleFilterCallback) trigger this same function since we want to output a single company and a selection of companies to the same table in the same format.
 function myCallbackFunction (inData) {
-    // This is an optional callback function where you have access to all the underlying CSV data associated with this bubble. Do anything you want with it!
-	
-	// Reference the CSV data element like this: inData[0]["Album"]
-
-	// You can see all incoming data in your browser Console, so you know what it there and how it is structured.
-	// Remove the following line when you are done with it.
 	console.log(inData);
 	
-	// Create a string that is initially the table headings
 	var tblHdr = "<thead><tr><th>Rank<br>2018</th><th>Rank<br>2017</th><th>Company</th><th>Revenues ($M)</th><th>Rev. Change</th><th>Profits ($M)</th><th>Profits Change</th><th>City</th><th>State</th><th>Sector</th><th>Industry</th><th>Employees</th></tr></thead>";
 	var tmpTbl = "<table id='coTbl' cellspacing='0' cellpadding='0'>" + tblHdr;
 	var tmp = "";
 		
 	if (inData.length > 0) {
-		// Loop through the data and build the table as a string.
-		// Note how to reference data from the underlying CSV file: inData[k]["City"]
-		// where the variable k is used to reference the kth circle in the inData array.
 		for (var k = 0; k < inData.length; k++) {
 			tmp = tmp + "<tr><td>" + inData[k]["Rank 2018"] + "</td><td>" + inData[k]["Rank 2017"] + "</td><td>" + inData[k]["Company"] + "</td><td>$" + numberWithCommas(inData[k]["Revenue"]) + "</td><td>" + (inData[k]["Revenue Change from 2017"]*100).toFixed(1) + "%</td><td>$" + numberWithCommas(inData[k]["Profits"]) + "</td><td>" + (inData[k]["Profit Change from 2017"]*100).toFixed(1) + "%</td><td>" + inData[k]["City"] + "</td><td>" + inData[k]["State"] + "</td><td>" + inData[k]["Sector"] + "</td><td>" + inData[k]["Industry"] +"</td><td>" + numberWithCommas(inData[k]["Employees"]) +"</td></tr>";
 		}
-		
-		// Output the table to the #outputTable DIV element
 		$("#outputTable").html(tmpTbl + "<tbody>" + tmp + "</tbody></table>");
 		
-		// Initialize the jQuery dataTable
 		$('#outputTable table').DataTable( {
 			"paging":   false,
 			"searching": false,
 			"info":     false
 		} );
 
-		// Reformat some strings
 		var tmpstr = "";
 		$("#outputTable table#coTbl td:contains('$-')").each(function(index) {
 			tmpstr = $(this).text();
@@ -263,12 +243,6 @@ function myCallbackFunction (inData) {
             <div class="card-body d-flex flex-column align-items-start">
 			  <strong class="d-inline-block mb-2 text-primary">Revenue by Sector</strong>
 			  <embed type="text/html" src="revenuebysector.html" width="100%" height="500">
-              <!-- <h3 class="mb-0">
-                <a class="text-dark" href="http://news.mit.edu/2019/vivienne-sze-wins-edgerton-faculty-award-0417">Sierra Ruby wins Edgerton Faculty Award</a>
-              </h3>
-              <div class="mb-1 text-muted">April 17, 2019</div>
-              <p class="card-text mb-auto">EECS faculty member is recognized for technical innovation, educational excellence, and efforts to advance women and underrepresented minorities in her field.</p>
-              <a href="#">Continue reading</a> -->
             </div>
           </div>
         </div>
@@ -277,12 +251,6 @@ function myCallbackFunction (inData) {
             <div class="card-body d-flex flex-column align-items-start">
 			  <strong class="d-inline-block mb-2 text-primary">Revenue by Industry</strong>
 			  <embed type="text/html" src="revenuebyindustry.html" width="100%" height="500">
-              <!-- <h3 class="mb-0">
-                <a class="text-dark" href="#">Schwab calls for proposals from education leaders</a>
-              </h3>
-              <div class="mb-1 text-muted">January 14, 2019</div>
-              <p class="card-text mb-auto">MIT research center aims to support leaders in rigorously evaluating promising uses of education technology and innovative educational practices.</p>
-              <a href="#">Continue reading</a> -->
             </div>
           </div>
         </div>        
