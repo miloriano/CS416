@@ -1,0 +1,114 @@
+
+body {
+	font-family: arial,sans-serif;
+	margin: 0 0 10em 0px;
+	overflow-x: hidden;
+}
+
+#demo_hdr_wrapper {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-bottom: 2em;
+}
+
+#demo_hdr {
+	text-align: center;
+	font-size: 48px;
+	font-weight: bold;
+	padding: 15px 10px;
+	margin: 0;
+}
+
+.demo_subhdr {
+	text-align: center;
+	font-size: 16px;
+	padding: 0px 10px 10px 10px;
+}
+
+.demo_subsep {
+	font-weight: bold;
+	padding: 0 8px;
+	font-size: 16px;
+}
+
+.demo_exsep {
+	font-weight: bold;
+	padding: 0 6px;
+}
+
+.demo_exampleDesc {
+	padding: 5px 10px;
+	color: black;
+	background-color: #ededed;
+	font-size: 12px;
+	font-style: italic;
+	border-top: 1px solid lightgray;
+}
+
+.demo_exhdr {
+	font-weight: bold;
+	padding-right: 10px;
+}
+
+.demo_contentWrapper {
+	text-align: center;
+}
+
+.dsd3viz {
+	padding: 1em 0;
+	margin-bottom: 4em;
+}
+
+/* DEMO EXAMPLES - DROPDOWN STYLING */
+
+#viz1_filter1 {
+	max-width: 220px;
+}
+
+#viz4 .axisContainer select {
+	font-size: 12px;
+}
+
+#viz5_filterRow .chosen-container {
+	text-align: left;
+	min-width: 80px;
+	max-width: 165px;
+	margin-right: 6px;
+}
+#viz5_filterRow .chosen-container:last-of-type {
+	margin-right: 0px;
+}
+
+/* DEMO EXAMPLES - TOOLTIP STYLING */
+
+.tooltip .flRight {
+	display: inline-block;
+	float: right;
+	margin-left: 6px;
+}
+
+#viz1_ttip .customttip {
+	width: 150px;
+}
+
+#viz1_ttip .ttip_name {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 2px 0;
+}
+
+#viz5_ttip .customttip {
+	width: 120px;
+}
+
+#viz5_ttip img.cover {
+	width: 120px;
+	height: auto;
+	margin-top: 4px;
+}
+
+#viz6_ttip .customttip {
+	width: 125px;
+}
+

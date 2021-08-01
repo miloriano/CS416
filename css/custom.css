@@ -1,0 +1,136 @@
+
+noscript {
+	font-weight: bold;
+	padding: 10px;
+	margin: 10px;
+}
+
+p.loadErrorMsg {
+	padding: 10px;
+	background-color: gray;
+	color: white;
+	font-size: 14px;
+}
+p.loadErrorMsg strong {
+	padding: 4px 0 0 0;
+	font-style: italic;
+}
+
+.dashmaingraph {
+	font-family: arial,sans-serif;
+}
+
+.dashmaingraph #yLabel, .dashmaingraph #xLabel {
+	font-size: 11px;
+}
+
+.dashmaingraph .tooltip {
+    position: absolute;
+    width: auto;
+	min-width: 120px;
+    height: auto;
+    padding: 6px;
+    font-size: 12px;		
+    background-color: #0d9900;
+    border-radius: 2px;			
+    pointer-events: none;
+	margin-left: 10px;
+	color: rgba(255, 255, 255, 0.87);
+	opacity: 1;
+	text-align: left;
+}
+
+.dashmaingraph .filterRow {
+	clear: both;
+	padding: 10px 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+}
+
+.dashmaingraph .filterRow select {
+	max-width: 300px;
+	border: 1px solid gray;
+	border-radius: 3px;
+	padding: 2px;
+}
+
+.dashmaingraph svg {
+	/* overflow-x: auto; */
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.dashmaingraph .axisIcon {
+    height: 22px;
+    width: 22px;
+    float: left;
+	margin-right: 8px;
+	margin-top: 2px;
+}
+
+.dashmaingraph .axisContainer {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.dashmaingraph #selectAxesRow {
+    padding: 10px 0;
+	margin-top: -5px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.dashmaingraph .axisSelect {
+    border: 1px solid gray;
+    padding: 2px;
+	border-radius: 3px;
+}
+
+.dashmaingraph .plotLabel {
+	padding-right: 15px;
+	font-weight: bold;
+}
+
+.dashmaingraph path, .dashmaingraph line {
+	stroke: rgb(255, 255, 255);
+}
+
+.dashmaingraph h2.vizHdr {
+	padding: 0;
+	margin: 0 0 5px 0;
+	font-size: 20px;
+	text-align: center;
+}
+
+.dashmaingraph select {
+	margin-right: 8px;
+}
+
+.dashmaingraph .vizSubtitle {
+	font-size: 12px; 
+	color: gray;
+	padding: 0;
+	margin: 0 0 5px 0;
+	text-align: center;
+}
+
+.dashmaingraph select.filterDrop option:empty {
+	display: none;
+}
+
+/* DEMO EXAMPLES - TOOLTIP STYLING */
+
+.tooltip .flRight {
+	display: inline-block;
+	float: right;
+	margin-left: 6px;
+}
+
+#dashmain_ttip .customttip {
+	width: 125px;
+}
+

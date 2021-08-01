@@ -1,0 +1,1001 @@
+Rank 2018,Company,Revenue,Profits,Profit Change from 2017,Assets,Market Value (March 2018),Employees,Sector,Industry,Years On Fortune 1000,City,State,lat,lng,Rank 2017,Revenue Change from 2017
+1,Walmart,500343,9862,-28%,204522,263563,2300000,Retailing,General Merchandisers,24,Bentonville,AR,36.3728538,-94.2088172,1,0.03
+2,Exxon Mobil,244363,19710,151%,348691,316157,71200,Energy,Petroleum Refining,24,Irving,TX,32.8140177,-96.9488945,4,0.174
+3,Berkshire Hathaway,242137,44940,87%,702095,492008,377000,Financials,Insurance: Property and Casualty (Stock),24,Omaha,NE,41.2565369,-95.9345034,2,0.083
+4,Apple,229234,48351,6%,375319,851318,123000,Technology,"Computers, Office Equipment",24,Cupertino,CA,37.3229978,-122.0321823,3,0.063
+5,UnitedHealth Group,201159,10558,51%,139058,207080,260000,Health Care,Health Care: Insurance and Managed Care,24,Minnetonka,MN,44.9211836,-93.4687489,6,0.088
+6,McKesson,198533,5070,125%,60969,29067,64500,Wholesalers,Wholesalers: Health Care,24,SF,CA,37.7749295,-122.4194155,5,0.031
+7,CVS Health,184765,6622,25%,95131,63114,203000,Health Care,Health Care: Pharmacy and Other Services,24,Woonsocket,RI,42.0028761,-71.5147839,7,0.041
+8,Amazon.com,177866,3033,28%,131310,700668,566000,Retailing,Internet Services and Retailing,17,Seattle,WA,47.6062095,-122.3320708,12,0.308
+9,AT&T,160546,29450,127%,444097,218946,254000,Telecommunications,Telecommunications,24,Dallas,TX,32.7766642,-96.7969879,9,-0.02
+10,General Motors,157311,-3864,-141%,212482,50972,180000,Motor Vehicles &  Parts,Motor Vehicles and Parts,24,Detroit,MI,42.331427,-83.0457538,8,-0.055
+11,Ford Motor,156776,7602,65%,257808,44244,202000,Motor Vehicles &  Parts,Motor Vehicles and Parts,24,Dearborn,MI,42.3222599,-83.1763145,10,0.033
+12,AmerisourceBergen,153144,365,-75%,35317,18938,19500,Wholesalers,Wholesalers: Health Care,24,Chesterbrook,PA,40.0756627,-75.4590816,11,0.043
+13,Chevron,134533,9195,-,253806,217845,51900,Energy,Petroleum Refining,24,San Ramon,CA,37.7799273,-121.9780153,19,0.251
+14,Cardinal Health,129976,1288,-10%,40112,19726,40400,Wholesalers,Wholesalers: Health Care,24,Dublin,OH,40.0992294,-83.1140771,15,0.069
+15,Costco,129025,2679,14%,36347,82687,182000,Retailing,General Merchandisers,24,Issaquah,WA,47.5301011,-122.0326191,16,0.087
+16,Verizon,126034,30101,129%,257143,197497,155400,Telecommunications,Telecommunications,24,New York,NY,40.7127753,-74.0059728,14,0
+17,Kroger,122662,1907,-3%,37197,20828,449000,Food &  Drug Stores,Food and Drug Stores,24,Cincinnati,OH,39.1031182,-84.5120196,18,0.064
+18,General Electric,122274,-5786,-166%,377945,117054,313000,Industrials,Industrial Machinery,24,Boston,MA,42.3600825,-71.0588801,13,-0.035
+19,Walgreens Boots Alliance,118214,4078,-2%,66009,64924,290000,Food &  Drug Stores,Food and Drug Stores,24,Deerfield,IL,42.1711365,-87.8445119,17,0.007
+20,JPMorgan Chase,113899,24441,-1%,2533600,375043,252539,Financials,Commercial Banks,24,New York,NY,40.7127753,-74.0059728,21,0.08
+21,Fannie Mae,112394,2463,-80%,3345529,1633,7200,Financials,Diversified Financials,21,Leavenworth,WA,47.7510741,-120.7401385,20,0.049
+22,Alphabet,110855,12662,-35%,197295,719124,80110,Technology,Internet Services and Retailing,13,Mountain View,CA,37.3860517,-122.0838511,27,0.228
+23,Home Depot,100904,8630,9%,44529,206272,413000,Retailing,Specialty Retailers: Other,24,Atlanta,GA,33.7489954,-84.3879824,23,0.067
+24,Bank of America Corp.,100264,18232,2%,2281234,306618,209376,Financials,Commercial Banks,24,Charlotte,NC,35.2270869,-80.8431267,26,0.07
+25,Express Scripts Holding,100065,4517,33%,54256,38791,26600,Health Care,Health Care: Pharmacy and Other Services,19,St. Louis,MO,38.6270025,-90.1994042,22,-0.002
+26,Wells Fargo,97741,22183,1%,1951757,255556,262700,Financials,Commercial Banks,24,SF,CA,37.7749295,-122.4194155,25,0.038
+27,Boeing,93392,8197,68%,92333,192539,140800,Aerospace &  Defense,Aerospace and Defense,24,Chicago,IL,41.8781136,-87.6297982,24,-0.012
+28,Phillips 66,91568,5106,228%,54371,44730,14600,Energy,Petroleum Refining,6,Houston,TX,29.7604267,-95.3698028,34,0.265
+29,Anthem,90040,3843,56%,70540,56182,56000,Health Care,Health Care: Insurance and Managed Care,24,Indianapolis,IN,39.768403,-86.158068,29,0.061
+30,Microsoft,89950,21204,26%,241086,702760,124000,Technology,Computer Software,24,Redmond,WA,47.6739881,-122.121512,28,0.054
+31,Valero Energy,88407,4065,78%,50158,39977,10015,Energy,Petroleum Refining,20,San Antonio,TX,29.4241219,-98.4936282,37,0.26
+32,Citigroup,87966,-6798,-146%,1842465,172822,209000,Financials,Commercial Banks,24,New York,NY,40.7127753,-74.0059728,30,0.068
+33,Comcast,84526,22714,161%,186949,158703,164000,Telecommunications,Telecommunications,23,Philadelphia,PA,39.9525839,-75.1652215,31,0.051
+34,IBM,79139,5753,-52%,125356,141335,397800,Technology,Information Technology Services,24,Armonk,NY,41.1264849,-73.7140195,32,-0.01
+35,Dell Technologies,78660,-3728,-,122281,-,145000,Technology,"Computers, Office Equipment",21,Round Rock,TX,30.5082551,-97.678896,41,0.214
+36,State Farm Insurance Cos.,78331,2207,530%,272345,-,65664,Financials,Insurance: Property and Casualty (Mutual),24,Bloomington,IL,40.4842027,-88.9936873,33,0.029
+37,Johnson & Johnson,76450,1300,-92%,157303,343780,134000,Health Care,Pharmaceuticals,24,New Brunswick,NJ,40.4862157,-74.4518188,35,0.063
+38,Freddie Mac,74676,5625,-28%,2049776,878,6165,Financials,Diversified Financials,21,McLean,VA,38.9338676,-77.1772604,39,0.137
+39,Target,71879,2934,7%,38999,37409,345000,Retailing,General Merchandisers,24,Minneapolis,MN,44.977753,-93.2650108,38,0.034
+40,Lowes,68619,3447,11%,35291,72812,255000,Retailing,Specialty Retailers: Other,24,Mooresville,NC,35.5848596,-80.8100724,40,0.055
+41,Marathon Petroleum,67610,3432,192%,49047,34683,43800,Energy,Petroleum Refining,7,Findlay,OH,41.04422,-83.6499321,51,0.21
+42,Procter & Gamble,66217,15326,46%,120406,199865,95000,Household Products,Household and Personal Products,24,Cincinnati,OH,39.1031182,-84.5120196,36,-0.077
+43,MetLife,66153,4010,401%,719892,47572,49000,Financials,"Insurance: Life, Health (stock)",24,New York,NY,40.7127753,-74.0059728,42,0.042
+44,UPS,65872,4910,43%,45403,90156,346415,Transportation,"Mail, Package, and Freight Delivery",24,Atlanta,GA,33.7489954,-84.3879824,46,0.082
+45,PepsiCo,63525,4857,-23%,79804,154933,263000,"Food, Beverages &  Tobacco",Food Consumer Products,24,Harrison,NY,41.0400135,-73.7144477,44,0.012
+46,Intel,62761,9601,-7%,123249,243109,102700,Technology,Semiconductors and Other Electronic Components,24,Santa Clara,CA,37.3541079,-121.9552356,47,0.057
+47,DowDuPont,62683,1460,-66%,192164,148186,98000,Chemicals,Chemicals,24,Midland,Michigan,43.623574,-84.232105,62,0.302
+48,Archer Daniels Midland,60828,1595,25%,39963,24238,31300,"Food, Beverages &  Tobacco",Food Production,24,Chicago,IL,41.8781136,-87.6297982,45,-0.024
+49,Aetna,60535,1904,-16%,55151,55229,47950,Health Care,Health Care: Insurance and Managed Care,18,Hartford,CT,41.7658043,-72.6733723,43,-0.041
+50,FedEx,60319,2997,65%,48552,64161,357000,Transportation,"Mail, Package, and Freight Delivery",24,Memphis,TN,35.1495343,-90.0489801,58,0.198
+51,United Technologies,59837,4552,-10%,96920,100667,204700,Aerospace &  Defense,Aerospace and Defense,24,Farmington,CT,41.7360305,-72.795027,50,0.045
+52,Prudential Financial,59689,7863,80%,831921,43686,49705,Financials,"Insurance: Life, Health (stock)",24,Newark,NJ,40.735657,-74.1723667,48,0.015
+53,Albertsons Cos.,59678,-373,-,23755,-,273000,Food &  Drug Stores,Food and Drug Stores,14,Boise,ID,43.6150186,-116.2023137,49,0.016
+54,Sysco,55371,1143,20%,17757,31294,66500,Wholesalers,Wholesalers: Food and Grocery,24,Houston,TX,29.7604267,-95.3698028,57,0.099
+55,Disney,55137,8980,-4%,95789,151029,199000,Media,Entertainment,24,Burbank,CA,34.1808392,-118.3089661,52,-0.009
+56,Humana,53767,2448,299%,27178,37122,45900,Health Care,Health Care: Insurance and Managed Care,24,Louisville,KY,38.2526647,-85.7584557,53,-0.011
+57,Pfizer,52546,21308,195%,171797,211115,90200,Health Care,Pharmaceuticals,24,New York,NY,40.7127753,-74.0059728,54,-0.005
+58,HP,52056,2526,1%,32913,35893,49000,Technology,"Computers, Office Equipment",24,Palo Alto,CA,37.4418834,-122.1430195,61,0.079
+59,Lockheed Martin,51048,2002,-62%,46521,96589,100000,Aerospace &  Defense,Aerospace and Defense,24,Bethesda,MD,38.984652,-77.0947092,56,0.008
+60,AIG,49520,-6084,-,498301,49145,49800,Financials,Insurance: Property and Casualty (Stock),24,New York,NY,40.7127753,-74.0059728,55,-0.054
+61,Centene,48572,828,47%,21855,18704,33700,Health Care,Health Care: Insurance and Managed Care,9,St. Louis,MO,38.6270025,-90.1994042,66,0.193
+62,Cisco Systems,48005,9609,-11%,129818,206623,72900,Technology,Network and Other Communications Equipment,22,San Jose,CA,37.3382082,-121.8863286,60,-0.025
+63,HCA Healthcare,47653,2216,-23%,36593,34165,221491,Health Care,Health Care: Medical Facilities,24,Nashville,TN,36.1626638,-86.7816016,63,0.065
+64,Energy Transfer Equity,47487,954,-4%,86246,15335,29486,Energy,Pipelines,12,Dallas,TX,32.7766642,-96.7969879,79,0.266
+65,Caterpillar,45462,754,-,76962,88078,98400,Industrials,Construction and Farm Machinery,24,Deerfield,IL,42.1711365,-87.8445119,74,0.18
+66,Nationwide,43940,247,-26%,221257,-,33135,Financials,Insurance: Property and Casualty (Mutual),24,Columbus,OH,39.9611755,-82.9987942,68,0.096
+67,Morgan Stanley,43642,6111,2%,851733,96688,57633,Financials,Commercial Banks,24,New York,NY,40.7127753,-74.0059728,76,0.15
+68,Liberty Mutual Insurance Group,42687,17,-98%,142502,-,50000,Financials,Insurance: Property and Casualty (Stock),24,Boston,MA,42.3600825,-71.0588801,75,0.114
+69,New York Life Insurance,42296,1867,72%,303183,-,11114,Financials,"Insurance: Life, Health (Mutual)",24,New York,NY,40.7127753,-74.0059728,65,0.037
+70,Goldman Sachs Group,42254,4286,-42%,916776,95463,36600,Financials,Commercial Banks,19,New York,NY,40.7127753,-74.0059728,78,0.12
+71,American Airlines Group,42207,1919,-28%,51396,24584,126600,Transportation,Airlines,24,Fort Worth,TX,32.7554883,-97.3307658,67,0.05
+72,Best Buy,42151,1000,-19%,13049,20460,125000,Retailing,Specialty Retailers: Other,24,Richfield,MN,44.8832982,-93.2830021,72,0.07
+73,Cigna,41616,2237,20%,61753,40735,46000,Health Care,Health Care: Insurance and Managed Care,24,Bloomfield,CT,41.826488,-72.7300945,70,0.049
+74,Charter Communications,41581,9895,181%,146623,80954,94800,Telecommunications,Telecommunications,18,Stamford,CT,41.0534302,-73.5387341,96,0.434
+75,Delta Air Lines,41244,3577,-18%,53292,38746,86564,Transportation,Airlines,24,Atlanta,GA,33.7489954,-84.3879824,71,0.04
+76,Facebook,40653,15934,56%,84524,464190,25105,Technology,Internet Services and Retailing,6,Menlo Park,CA,37.4529598,-122.1817252,98,0.471
+77,Honeywell International,40534,1655,-66%,59387,108149,131000,Industrials,"Electronics, Electrical Equip.",24,Morris Plains,NJ,40.8395922,-74.4818698,73,0.031
+78,Merck,40122,2394,-39%,87872,146862,69000,Health Care,Pharmaceuticals,24,Kenilworth,NJ,40.6764911,-74.2907032,69,0.008
+79,Allstate,38524,3189,70%,112422,33478,42680,Financials,Insurance: Property and Casualty (Stock),23,Northbrook,IL,42.1275267,-87.8289548,84,0.054
+80,Tyson Foods,38260,1774,0%,28066,29233,122000,"Food, Beverages &  Tobacco",Food Production,24,Springdale,AR,36.1867442,-94.1288141,82,0.037
+81,United Continental Holdings,37736,2131,-6%,42326,19778,89800,Transportation,Airlines,24,Chicago,IL,41.8781136,-87.6297982,83,0.032
+82,Oracle,37728,9335,5%,134991,186766,138000,Technology,Computer Software,23,Redwood City,CA,37.4852152,-122.2363548,81,0.018
+83,Tech Data,36775,117,-40%,12653,3249,14000,Wholesalers,Wholesalers: Electronics and Office Equipment,24,Clearwater,FL,27.9658533,-82.8001026,107,0.402
+84,TIAA,36025,1050,-30%,583632,-,16829,Financials,"Insurance: Life, Health (Mutual)",21,New York,NY,40.7127753,-74.0059728,80,-0.029
+85,TJX,35865,2608,14%,14058,51571,249000,Retailing,Specialty Retailers: Apparel,24,Framingham,MA,42.279286,-71.4161565,87,0.081
+86,American Express,35583,2736,-49%,181159,80234,55000,Financials,Diversified Financials,24,New York,NY,40.7127753,-74.0059728,86,0.052
+87,Coca-Cola,35410,1248,-81%,87896,185207,61800,"Food, Beverages &  Tobacco",Beverages,24,Atlanta,GA,33.7489954,-84.3879824,64,-0.154
+88,Publix Super Markets,34837,2292,13%,18184,-,193000,Food &  Drug Stores,Food and Drug Stores,24,Lakeland,FL,28.0394654,-81.9498042,85,0.016
+89,Nike,34350,4240,13%,23259,108094,74400,Apparel,Apparel,24,Beaverton,OR,45.4887993,-122.8013332,88,0.061
+90,Andeavor,34204,1528,108%,28573,15386,14300,Energy,Petroleum Refining,19,San Antonio,TX,29.4241219,-98.4936282,117,0.425
+91,World Fuel Services,33696,-170,-235%,5588,1661,5000,Energy,Energy,14,Miami,FL,25.7616798,-80.1917902,103,0.247
+92,Exelon,33531,3770,233%,116700,37644,34621,Energy,Utilities: Gas and Electric,24,Chicago,IL,41.8781136,-87.6297982,89,0.069
+93,Massachusetts Mutual Life Insurance,33495,513,-60%,288855,-,11811,Financials,"Insurance: Life, Health (Mutual)",24,Springfield,MA,42.1014831,-72.589811,77,-0.114
+94,Rite Aid,32845,4,-98%,11594,1793,70430,Food &  Drug Stores,Food and Drug Stores,24,Camp Hill,PA,40.2398118,-76.9199742,91,0.069
+95,ConocoPhillips,32584,-855,-,73362,69641,11400,Energy,"Mining, Crude-Oil Production",24,Houston,TX,29.7604267,-95.3698028,115,0.338
+96,CHS,31935,128,-70%,15974,-,11626,"Food, Beverages &  Tobacco",Food Production,19,Inver Grove Heights,MN,44.8480218,-93.0427153,93,0.052
+97,3M,31657,4858,-4%,37987,130550,91536,Industrials,Miscellaneous,24,St Paul,MN,44.9537029,-93.0899578,94,0.051
+98,Time Warner,31271,5247,34%,69209,73758,26000,Media,Entertainment,19,New York,NY,40.7127753,-74.0059728,95,0.067
+99,General Dynamics,30973,2912,-2%,35046,65845,98600,Aerospace &  Defense,Aerospace and Defense,24,Falls Church,VA,38.882334,-77.1710914,90,-0.012
+100,USAA,30016,2422,36%,155391,-,32705,Financials,Insurance: Property and Casualty (Stock),24,San Antonio,TX,29.4241219,-98.4936282,102,0.106
+101,Capital One Financial,29999,1982,-47%,365693,46584,49300,Financials,Commercial Banks,19,McLean,VA,38.9338676,-77.1772604,100,0.09
+102,Deere,29738,2159,42%,65786,50291,60476,Industrials,Construction and Farm Machinery,24,Moline,IL,41.5067003,-90.5151342,105,0.116
+103,INTL FCStone,29424,6,-88%,6243,804,1607,Financials,Diversified Financials,10,New York,NY,40.7127753,-74.0059728,189,0.994
+104,Northwestern Mutual,29331,1017,24%,265049,-,5437,Financials,"Insurance: Life, Health (Mutual)",24,Milwaukee,WI,43.0389025,-87.9064736,97,0.018
+105,Enterprise Products Partners,29242,2799,11%,54418,52904,7000,Energy,Pipelines,13,Houston,TX,29.7604267,-95.3698028,122,0.27
+106,Travelers Cos.,28902,2056,-32%,103483,37691,30800,Financials,Insurance: Property and Casualty (Stock),24,New York,NY,40.7127753,-74.0059728,99,0.046
+107,Hewlett Packard Enterprise,28871,344,-89%,61406,27243,66000,Technology,"Computers, Office Equipment",2,Palo Alto,CA,37.4418834,-122.1430195,59,-0.424
+108,Philip Morris International,28748,6035,-13%,42968,154514,80600,"Food, Beverages &  Tobacco",Tobacco,10,New York,NY,40.7127753,-74.0059728,104,0.077
+109,Twenty-First Century Fox,28500,2952,7%,50724,67969,21700,Media,Entertainment,14,New York,NY,40.7127753,-74.0059728,101,0.043
+110,AbbVie,28216,5309,-11%,70786,150180,29000,Health Care,Pharmaceuticals,5,North Chicago,IL,42.325578,-87.8411818,111,0.101
+111,Abbott Laboratories,27390,477,-66%,76250,104640,99000,Health Care,Medical Products and Equipment,24,Lake Bluff,IL,42.304505,-87.8960712,135,0.313
+112,Progressive,26839,1592,54%,38701,35478,33656,Financials,Insurance: Property and Casualty (Stock),24,Mayfield,OH,41.5519952,-81.4392828,120,0.145
+113,Arrow Electronics,26813,402,-23%,16463,6750,18800,Wholesalers,Wholesalers: Electronics and Office Equipment,24,Centennial,CO,39.5807452,-104.8771726,118,0.125
+114,Kraft Heinz,26232,10999,203%,120232,75920,39000,"Food, Beverages &  Tobacco",Food Consumer Products,24,Pittsburgh,PA,40.4406248,-79.9958864,106,-0.01
+115,Plains GP Holdings,26223,-731,-878%,26753,6328,4850,Energy,Pipelines,5,Houston,TX,29.7604267,-95.3698028,141,0.299
+116,Gilead Sciences,26107,4628,-66%,70283,98298,10000,Health Care,Pharmaceuticals,10,San Mateo,CA,37.5585465,-122.2710788,92,-0.141
+117,Mondelez International,25896,2922,76%,63109,62066,83000,"Food, Beverages &  Tobacco",Food Consumer Products,11,Deerfield,IL,42.1711365,-87.8445119,109,-0.001
+118,Northrop Grumman,25803,2015,-8%,34917,60778,70000,Aerospace &  Defense,Aerospace and Defense,24,Falls Church,VA,38.882334,-77.1710914,114,0.053
+119,Raytheon,25348,2024,-9%,30860,62265,64000,Aerospace &  Defense,Aerospace and Defense,24,Waltham,MA,42.3764852,-71.2356113,116,0.053
+120,Macys,24837,1547,150%,19381,9065,130000,Retailing,General Merchandisers,24,Cincinnati,OH,39.1031182,-84.5120196,110,-0.037
+121,US Foods Holding,24147,444,112%,9037,7065,25204,Wholesalers,Wholesalers: Food and Grocery,7,Rosemont,IL,41.9867507,-87.8721602,124,0.054
+122,U.S. Bancorp,23996,6218,6%,462040,83367,72402,Financials,Commercial Banks,20,Minneapolis,MN,44.977753,-93.2650108,125,0.055
+123,Dollar General,23471,1539,23%,12517,25141,129000,Retailing,Specialty Retailers: Other,20,Goodlettsville,TN,36.3231066,-86.7133302,128,0.068
+124,International Paper,23302,2144,137%,33903,22063,56000,Materials,"Packaging, Containers",24,Memphis,TN,35.1495343,-90.0489801,133,0.105
+125,Duke Energy,23189,3059,42%,137914,54276,29060,Energy,Utilities: Gas and Electric,24,Charlotte,NC,35.2270869,-80.8431267,121,-0.008
+126,Southern,23031,842,-66%,111005,45024,31344,Energy,Utilities: Gas and Electric,24,Atlanta,GA,33.7489954,-84.3879824,145,0.158
+127,Marriott International,22894,1372,76%,23948,48531,177000,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",20,Bethesda,MD,38.984652,-77.0947092,163,0.341
+128,Avnet,22872,525,4%,9700,5009,15700,Wholesalers,Wholesalers: Electronics and Office Equipment,24,Phoenix,AZ,33.4483771,-112.0740373,108,-0.128
+129,Eli Lilly,22871,-204,-108%,44981,84542,40655,Health Care,Pharmaceuticals,24,Indianapolis,IN,39.768403,-86.158068,132,0.078
+130,Amgen,22849,1979,-74%,79954,122842,20800,Health Care,Pharmaceuticals,19,Thousand Oaks,CA,34.1705609,-118.8375937,123,-0.006
+131,McDonalds,22820,5192,11%,33804,124244,235000,"Hotels, Restaurants &  Leisure",Food Services,24,Oak Brook,IL,41.8397865,-87.9535534,112,-0.073
+132,Starbucks,22387,2885,2%,14366,81370,277000,"Hotels, Restaurants &  Leisure",Food Services,16,Seattle,WA,47.6062095,-122.3320708,131,0.05
+133,Qualcomm,22291,2466,-57%,65486,82027,33800,Technology,Semiconductors and Other Electronic Components,19,San Diego,CA,32.715738,-117.1610838,119,-0.054
+134,Dollar Tree,22246,1714,91%,16333,22523,116200,Retailing,Specialty Retailers: Other,10,Chesapeake,VA,36.7682088,-76.2874927,136,0.074
+135,PBF Energy,21787,416,143%,8118,3752,3165,Energy,Petroleum Refining,6,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877,172,0.368
+136,Icahn Enterprises,21744,2430,-,31801,9901,89034,Financials,Diversified Financials,10,New York,NY,40.7127753,-74.0059728,168,0.33
+137,Aflac,21667,4604,73%,137217,34038,11318,Financials,"Insurance: Life, Health (stock)",24,Columbus,GA,32.4609764,-84.9877094,126,-0.04
+138,AutoNation,21535,435,1%,10272,4296,26000,Retailing,"Automotive Retailing, Services",21,Fort Lauderdale,FL,26.1224386,-80.1373174,129,-0.003
+139,Penske Automotive Group,21389,613,79%,10541,3817,26000,Retailing,"Automotive Retailing, Services",20,Bloomfield Hills,MI,42.583645,-83.2454883,142,0.062
+140,Whirlpool,21253,350,-61%,20038,10824,92000,Industrials,"Electronics, Electrical Equip.",24,Benton Harbor,MI,42.1167065,-86.4541894,137,0.026
+141,Union Pacific,21240,10712,153%,57806,104261,41992,Transportation,Railroads,24,Omaha,NE,41.2565369,-95.9345034,143,0.065
+142,Southwest Airlines,21171,3488,55%,25110,33678,56110,Transportation,Airlines,24,Dallas,TX,32.7766642,-96.7969879,138,0.037
+143,ManpowerGroup,21034,545,23%,8884,7614,29000,Business Services,Temporary Help,24,Milwaukee,WI,43.0389025,-87.9064736,146,0.07
+144,Thermo Fisher Scientific,20918,2225,10%,56669,82952,66100,Technology,"Scientific,Photographic and  Control Equipment",16,Waltham,MA,42.3764852,-71.2356113,154,0.145
+145,Bristol-Myers Squibb,20776,1007,-77%,33551,103415,23700,Health Care,Pharmaceuticals,24,New York,NY,40.7127753,-74.0059728,147,0.069
+146,Halliburton,20620,-463,-,25085,41068,55000,Energy,"Oil and Gas Equipment, Services",24,Houston,TX,29.7604267,-95.3698028,173,0.298
+147,Tenet Healthcare,20613,-704,-,23385,2452,111980,Health Care,Health Care: Medical Facilities,24,Dallas,TX,32.7766642,-96.7969879,134,-0.022
+148,Lear,20467,1313,35%,11946,12453,165000,Motor Vehicles &  Parts,Motor Vehicles and Parts,24,Southfield,MI,42.4733688,-83.2218731,151,0.103
+149,Cummins,20428,999,-28%,18075,26757,58600,Industrials,Industrial Machinery,24,Columbus,IN,39.2014404,-85.9213796,159,0.167
+150,Micron Technology,20322,5089,-,35336,60470,34100,Technology,Semiconductors and Other Electronic Components,21,Boise,ID,43.6150186,-116.2023137,226,0.639
+151,Nucor,20252,1319,66%,15841,19432,25100,Materials,Metals,24,Charlotte,NC,35.2270869,-80.8431267,169,0.25
+152,Molina Healthcare,19883,-512,-1085%,8471,4867,20000,Health Care,Health Care: Insurance and Managed Care,7,Long Beach,CA,33.7700504,-118.1937395,156,0.118
+153,Fluor,19521,191,-32%,9328,8006,56706,Engineering &  Construction,"Engineering, Construction",17,Irving,TX,32.8140177,-96.9488945,149,0.025
+154,Altria Group,19494,10222,-28%,43202,118436,8300,"Food, Beverages &  Tobacco",Tobacco,24,Richmond,VA,37.5407246,-77.4360481,148,0.008
+155,Paccar,19456,1675,221%,23440,23298,25000,Industrials,Construction and Farm Machinery,24,Bellevue,WA,47.6101497,-122.2015159,164,0.142
+156,Hartford Financial Services,19228,-3131,-449%,225260,18392,16400,Financials,Insurance: Property and Casualty (Stock),23,Hartford,CT,41.7658043,-72.6733723,153,0.051
+157,Kohls,19095,859,55%,13340,11021,85000,Retailing,General Merchandisers,21,Menomonee Falls,WI,43.1788967,-88.1173132,150,0.022
+158,Western Digital,19093,397,64%,29860,27456,67629,Technology,"Computers, Office Equipment",15,San Jose,CA,37.3382082,-121.8863286,217,0.469
+159,Jabil,19063,129,-49%,11096,5035,170000,Technology,Semiconductors and Other Electronic Components,17,St. Petersburg,FL,27.7676008,-82.6402915,152,0.039
+160,Community Health Systems,18477,-2459,-,17450,454,86000,Health Care,Health Care: Medical Facilities,12,Franklin,TN,35.9250637,-86.8688899,130,-0.136
+161,Visa,18358,6699,12%,67977,270222,15000,Business Services,Financial Data Services,10,SF,CA,37.7749295,-122.4194155,187,0.217
+162,Danaher,18330,2492,-2%,46649,68385,67000,Health Care,Medical Products and Equipment,20,Leavenworth,WA,47.7510741,-120.7401385,144,-0.079
+163,Kimberly-Clark,18259,2278,5%,15151,38553,42000,Household Products,Household and Personal Products,24,Irving,TX,32.8140177,-96.9488945,155,0.003
+164,AECOM,18203,339,253%,14397,5671,87000,Engineering &  Construction,"Engineering, Construction",10,Los Angeles,CA,34.0522342,-118.2436849,161,0.046
+165,PNC Financial Services,18035,5338,37%,380768,71323,51632,Financials,Commercial Banks,24,Pittsburgh,PA,40.4406248,-79.9958864,166,0.098
+166,CenturyLink,17656,1389,122%,75611,17578,51000,Telecommunications,Telecommunications,9,Monroe,LA,32.5093109,-92.1193012,160,0.011
+167,NextEra Energy,17195,5378,85%,97827,76895,14000,Energy,Utilities: Gas and Electric,24,North Palm Beach,FL,26.8797819,-80.0533743,170,0.064
+168,PG& E Corp.,17135,1646,18%,68012,22664,23000,Energy,Utilities: Gas and Electric,24,SF,CA,37.7749295,-122.4194155,157,-0.03
+169,Synnex,17046,301,28%,7699,4702,113600,Wholesalers,Wholesalers: Electronics and Office Equipment,12,Fremont,CA,37.5482697,-121.9885719,198,0.212
+170,WellCare Health Plans,17007,374,54%,8365,8622,8900,Health Care,Health Care: Insurance and Managed Care,10,Tampa,FL,27.950575,-82.4571776,195,0.195
+171,Performance Food Group,16762,96,41%,3804,3104,14000,Wholesalers,Wholesalers: Food and Grocery,10,Richmond,VA,37.5407246,-77.4360481,171,0.041
+172,Sears Holdings,16702,-383,-,7262,288,89000,Retailing,General Merchandisers,24,Hoffman Estates,IL,42.0629915,-88.1227199,127,-0.246
+173,Synchrony Financial,16695,1935,-14%,95808,25490,16000,Financials,Diversified Financials,2,Stamford,CT,41.0534302,-73.5387341,185,0.104
+174,CarMax,16637,627,1%,16279,11202,24344,Retailing,"Automotive Retailing, Services",15,Richmond,VA,37.5407246,-77.4360481,174,0.051
+175,Bank of New York Mellon,16621,4090,15%,371758,51919,52500,Financials,Commercial Banks,24,New York City,NY,40.7127753,-74.0059728,177,0.06
+176,Freeport-McMoRan,16416,1817,-,37302,25439,25200,Energy,"Mining, Crude-Oil Production",13,Phoenix,AZ,33.4483771,-112.0740373,175,0.04
+177,Genuine Parts,16309,617,-10%,12412,13183,48000,Wholesalers,Wholesalers: Diversified,24,Atlanta,GA,33.7489954,-84.3879824,180,0.063
+178,Emerson Electric,16301,1518,-7%,19589,43359,76500,Industrials,Industrial Machinery,24,St. Louis,MO,38.6270025,-90.1994042,139,-0.196
+179,DaVita,16038,664,-25%,18948,12001,74500,Health Care,Health Care: Medical Facilities,12,Denver,CO,39.7392358,-104.990251,181,0.055
+180,Supervalu,16009,650,265%,3580,585,29000,Food &  Drug Stores,Food and Drug Stores,24,Eden Prairie,MN,44.8546856,-93.470786,158,-0.087
+181,Gap,15855,848,25%,7989,12147,135000,Retailing,Specialty Retailers: Apparel,24,SF,CA,37.7749295,-122.4194155,178,0.022
+182,General Mills,15620,1658,-2%,21813,26716,38000,"Food, Beverages &  Tobacco",Food Consumer Products,24,Minneapolis,MN,44.977753,-93.2650108,165,-0.057
+183,Nordstrom,15478,437,23%,8115,8123,76000,Retailing,General Merchandisers,24,Seattle,WA,47.6062095,-122.3320708,188,0.049
+184,Colgate-Palmolive,15454,2024,-17%,12676,62607,35900,Household Products,Household and Personal Products,24,New York,NY,40.7127753,-74.0059728,182,0.017
+185,American Electric Power,15425,1913,213%,64729,33766,17666,Energy,Utilities: Gas and Electric,24,Columbus,OH,39.9611755,-82.9987942,167,-0.058
+186,XPO Logistics,15381,340,393%,12602,12210,95000,Transportation,Transportation and Logistics,3,Greenwich,CT,41.0262417,-73.6281964,191,0.052
+187,Goodyear Tire & Rubber,15377,346,-73%,17064,6392,64000,Motor Vehicles &  Parts,Motor Vehicles and Parts,24,Akron,OH,41.0814447,-81.5190053,184,0.014
+188,Omnicom Group,15274,1088,-5%,24931,16734,77300,Business Services,"Advertising, marketing",22,New York,NY,40.7127753,-74.0059728,179,-0.009
+189,CDW,15192,523,23%,6957,10717,8726,Technology,Information Technology Services,14,Lincolnshire,IL,42.1900249,-87.9084039,199,0.087
+190,Sherwin-Williams,14984,1772,57%,19958,36899,52695,Chemicals,Chemicals,24,Cleveland,OH,41.49932,-81.6943605,236,0.264
+191,PPG Industries,14967,1591,81%,16538,27824,47200,Chemicals,Chemicals,24,Pittsburgh,PA,40.4406248,-79.9958864,183,-0.014
+192,Texas Instruments,14961,3682,2%,17642,102135,29714,Technology,Semiconductors and Other Electronic Components,24,Dallas,TX,32.7766642,-96.7969879,206,0.119
+193,C.H. Robinson Worldwide,14869,505,-2%,4236,13153,15074,Transportation,Transportation and Logistics,17,Eden Prairie,MN,44.8546856,-93.470786,212,0.131
+194,WestRock,14860,708,-,25089,16372,44800,Materials,"Packaging, Containers",7,Atlanta,GA,33.7489954,-84.3879824,190,0.01
+195,Cognizant Technology Solutions,14810,1504,-3%,15221,47338,260000,Technology,Information Technology Services,8,Teaneck,NJ,40.8932469,-74.0116536,205,0.098
+196,Newell Brands,14742,2749,421%,33136,12363,49000,Household Products,"Home Equipment, Furnishings",23,Hoboken,NJ,40.7439905,-74.0323626,208,0.111
+197,CBS,14710,357,-72%,20843,19668,14715,Media,Entertainment,24,New York,NY,40.7127753,-74.0059728,193,0.023
+198,Envision Healthcare,14701,-228,-,16573,4647,57750,Health Care,Health Care: Pharmacy and Other Services,1,Nashville,TN,36.1626638,-86.7816016,538,2.204
+199,Monsanto,14640,2260,69%,21333,51444,21900,Chemicals,Chemicals,15,St. Louis,MO,38.6270025,-90.1994042,204,0.084
+200,Aramark,14604,374,30%,11006,9725,215000,Business Services,Diversified Outsourcing Services,24,Philadelphia,PA,39.9525839,-75.1652215,192,0.013
+201,Applied Materials,14537,3434,100%,19419,58429,18400,Technology,Semiconductors and Other Electronic Components,23,Santa Clara,CA,37.3541079,-121.9552356,265,0.343
+202,Waste Management,14485,1949,65%,21829,36372,42300,Business Services,Waste Management,20,Houston,TX,29.7604267,-95.3698028,201,0.064
+203,DISH Network,14391,2099,45%,29774,17682,17000,Telecommunications,Telecommunications,17,Englewood,CO,39.6477653,-104.9877597,186,-0.047
+204,Illinois Tool Works,14314,1687,-17%,16780,53142,50000,Industrials,Industrial Machinery,24,Glenview,IL,42.0697509,-87.7878408,202,0.053
+205,Lincoln National,14257,2079,74%,281763,15946,9047,Financials,"Insurance: Life, Health (stock)",24,Wayne,PA,40.0462208,-75.3599105,207,0.07
+206,HollyFrontier,14251,805,-,10692,8650,3522,Energy,Petroleum Refining,11,Dallas,TX,32.7766642,-96.7969879,274,0.353
+207,CBRE Group,14210,692,21%,11484,16042,80000,Financials,Real estate,11,Los Angeles,CA,34.0522342,-118.2436849,214,0.087
+208,Textron,14198,307,-68%,15340,15293,37000,Aerospace &  Defense,Aerospace and Defense,24,Providence,RI,41.8239891,-71.4128343,200,0.03
+209,Ross Stores,14135,1363,22%,5722,29800,82700,Retailing,Specialty Retailers: Apparel,16,Dublin,CA,37.7021521,-121.9357918,219,0.099
+210,Principal Financial,14093,2310,76%,253941,17643,15378,Financials,"Insurance: Life, Health (stock)",24,Des Moines,IA,41.6005448,-93.6091064,227,0.137
+211,D.R. Horton,14091,1038,17%,12185,16480,7735,Engineering &  Construction,Homebuilders,16,Arlington,TX,32.735687,-97.1080656,232,0.159
+212,Marsh & McLennan,14024,1492,-16%,20429,41924,64000,Financials,Diversified Financials,24,New York,NY,40.7127753,-74.0059728,210,0.062
+213,Devon Energy,13949,898,-,30241,16725,3414,Energy,"Mining, Crude-Oil Production",17,Oklahoma City,OK,35.4675602,-97.5164276,231,0.144
+214,AES,13850,-1161,-,33112,7510,10500,Energy,Utilities: Gas and Electric,18,Arlington,VA,38.8816208,-77.0909809,194,-0.031
+215,Ecolab,13838,1508,23%,19962,39524,48400,Chemicals,Chemicals,16,St Paul,MN,44.9537029,-93.0899578,211,0.052
+216,Land O'Lakes,13740,314,28%,9509,-,10000,"Food, Beverages &  Tobacco",Food Consumer Products,16,Arden Hills,MN,45.0502435,-93.1566112,209,0.038
+217,Loews,13735,1164,78%,79586,16134,18100,Financials,Insurance: Property and Casualty (Stock),24,New York,NY,40.7127753,-74.0059728,213,0.048
+218,Kinder Morgan,13705,183,-74%,79055,33223,10897,Energy,Pipelines,15,Houston,TX,29.7604267,-95.3698028,215,0.05
+219,FirstEnergy,13627,-1724,-,42257,16175,15617,Energy,Utilities: Gas and Electric,23,Akron,OH,41.0814447,-81.5190053,196,-0.037
+220,Occidental Petroleum,13274,1311,-,42026,49738,11000,Energy,"Mining, Crude-Oil Production",24,Houston,TX,29.7604267,-95.3698028,278,0.277
+221,Viacom,13263,1874,30%,23698,12919,11200,Media,Entertainment,13,New York,NY,40.7127753,-74.0059728,224,0.062
+222,PayPal Holdings,13094,1795,28%,40774,91056,18700,Business Services,Financial Data Services,3,San Jose,CA,37.3382082,-121.8863286,264,0.208
+223,NGL Energy Partners,13022,137,-,6320,1332,2700,Energy,Energy,4,Tulsa,OK,36.1539816,-95.992775,237,0.109
+224,Celgene,13003,2940,47%,30141,67102,7467,Health Care,Pharmaceuticals,7,Summit,NJ,40.7146376,-74.3646122,254,0.158
+225,Arconic,12960,-74,-,18718,11124,41500,Aerospace &  Defense,Aerospace and Defense,24,New York,NY,40.7127753,-74.0059728,228,0.046
+226,Kellogg,12923,1269,83%,16350,22532,32944,"Food, Beverages &  Tobacco",Food Consumer Products,24,Battle Creek,MI,42.3211522,-85.1797142,216,-0.007
+227,Las Vegas Sands,12882,2806,68%,20687,56721,50500,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",9,Las Vegas,NV,36.1699412,-115.1398296,249,0.129
+228,Stanley Black & Decker,12747,1226,27%,19080,23610,57765,Household Products,"Home Equipment, Furnishings",11,New Britain,CT,41.6612104,-72.7795419,250,0.117
+229,Booking Holdings,12681,2341,10%,25451,100459,22900,Technology,Internet Services and Retailing,6,Norwalk,CT,41.117744,-73.4081575,268,0.18
+230,Lennar,12646,811,-11%,18745,18738,9111,Engineering &  Construction,Homebuilders,14,Miami,FL,25.7616798,-80.1917902,260,0.155
+231,L Brands,12632,983,-15%,8149,10655,59200,Retailing,Specialty Retailers: Apparel,24,Columbus,OH,39.9611755,-82.9987942,220,0.005
+232,DTE Energy,12607,1134,31%,33767,18760,10200,Energy,Utilities: Gas and Electric,24,Detroit,MI,42.331427,-83.0457538,272,0.186
+233,Dominion Energy,12586,2999,41%,76585,45344,16200,Energy,Utilities: Gas and Electric,24,Richmond,VA,37.5407246,-77.4360481,238,0.072
+234,Reinsurance Group of America,12516,1822,160%,60515,9930,2640,Financials,"Insurance: Life, Health (stock)",9,Chesterfield,MO,38.6631083,-90.5770675,246,0.086
+235,J.C. Penney,12506,-116,-11700%,8413,943,98000,Retailing,General Merchandisers,24,Plano,TX,33.0198431,-96.6988856,221,-0.003
+236,Mastercard,12497,3915,-4%,21329,184161,13400,Business Services,Financial Data Services,10,Harrison,NY,41.0400135,-73.7144477,267,0.16
+237,BlackRock,12491,4970,57%,220217,87065,13900,Financials,Securities,11,New York,NY,40.7127753,-74.0059728,255,0.12
+238,Henry Schein,12462,406,-20%,7811,10330,22000,Wholesalers,Wholesalers: Health Care,15,Melville,NY,40.7934322,-73.4151214,243,0.077
+239,Guardian Life Ins. Co. of America,12455,455,73%,75038,-,9283,Financials,"Insurance: Life, Health (Mutual)",24,New York,NY,40.7127753,-74.0059728,218,-0.036
+240,Stryker,12444,1020,-38%,22197,60041,33000,Health Care,Medical Products and Equipment,16,Kalamazoo,MI,42.2917069,-85.5872286,252,0.099
+241,Jefferies Financial Group,12408,172,32%,47169,8098,12700,Financials,Diversified Financials,6,New York,NY,40.7127753,-74.0059728,262,0.141
+242,VF,12400,615,-43%,9959,29403,69000,Apparel,Apparel,24,Greensboro,NC,36.0726354,-79.7919754,230,0.016
+243,ADP,12380,1733,16%,37180,50302,58000,Business Services,Diversified Outsourcing Services,24,Roseland,NJ,40.8206555,-74.2937594,240,0.061
+244,Edison International,12320,565,-57%,52580,20741,12521,Energy,Utilities: Gas and Electric,24,Rosemead,CA,34.0805651,-118.072846,235,0.038
+245,Biogen,12274,2539,-31%,23653,57930,7300,Health Care,Pharmaceuticals,9,Cambridge,MA,42.3736158,-71.1097335,248,0.072
+246,United States Steel,12250,387,-,9862,6200,29200,Materials,Metals,16,Pittsburgh,PA,40.4406248,-79.9958864,279,0.194
+247,Core-Mark Holding,12225,34,-38%,1783,981,8413,Wholesalers,Wholesalers: Food and Grocery,9,South San Francisco,CA,37.654656,-122.4077498,247,0.062
+248,Bed Bath & Beyond,12216,685,-19%,6846,2989,65000,Retailing,Specialty Retailers: Other,15,Union,NJ,40.6975898,-74.2631635,233,0.009
+249,Oneok,12174,388,10%,16846,23373,2470,Energy,Pipelines,16,Tulsa,OK,36.1539816,-95.992775,312,0.365
+250,BB& T Corp.,12156,2394,-1%,221642,40454,36484,Financials,Commercial Banks,20,Winston-Salem,NC,36.0998596,-80.244216,245,0.054
+251,Becton Dickinson,12093,1100,13%,37734,57695,41933,Health Care,Medical Products and Equipment,24,Franklin Lakes,NJ,41.0167639,-74.2057011,225,-0.031
+252,Ameriprise Financial,12075,1480,13%,147470,21613,13312,Financials,Diversified Financials,12,Minneapolis,MN,44.977753,-93.2650108,239,0.029
+253,Farmers Insurance Exchange,12072,-65,-,16165,-,13015,Financials,Insurance: Property and Casualty (Mutual),4,Los Angeles,CA,34.165357,-118.6089752,222,-0.035
+254,First Data,12052,1465,249%,48269,14865,22000,Business Services,Financial Data Services,24,New York,NY,40.7127753,-74.0059728,242,0.04
+255,Consolidated Edison,12033,1525,23%,48111,24192,15591,Energy,Utilities: Gas and Electric,24,New York,NY,40.7127753,-74.0059728,234,-0.003
+256,Parker-Hannifin,12029,983,22%,15490,22755,56690,Industrials,Industrial Machinery,24,Cleveland,OH,41.49932,-81.6943605,251,0.059
+257,Anadarko Petroleum,11908,-456,-,42086,31131,4400,Energy,"Mining, Crude-Oil Production",18,The Woodlands,TX,30.1658207,-95.4612625,344,0.513
+258,Estee Lauder,11824,1249,12%,11568,55064,46000,Household Products,Household and Personal Products,23,New York,NY,40.7127753,-74.0059728,253,0.05
+259,State Street Corp.,11774,2177,2%,238425,36688,36643,Financials,Commercial Banks,23,Boston,MA,42.3600825,-71.0588801,271,0.107
+260,Tesla,11759,-1961,-,28655,44955,37543,Motor Vehicles &  Parts,Motor Vehicles and Parts,2,Palo Alto,CA,37.4418834,-122.1430195,383,0.68
+261,Netflix,11693,559,199%,19013,128167,5100,Technology,Internet Services and Retailing,4,Los Gatos,CA,37.2358078,-121.9623751,314,0.324
+262,Alcoa,11652,217,-,17447,8372,14600,Materials,Metals,2,Pittsburgh,PA,40.4406248,-79.9958864,300,0.25
+263,Discover Financial Services,11545,2099,-12%,100087,25431,16500,Financials,Commercial Banks,10,Riverwoods,IL,42.1675254,-87.897014,277,0.1
+264,Praxair,11437,1247,-17%,20436,41434,26461,Chemicals,Chemicals,24,Danbury,CT,41.394817,-73.4540111,275,0.086
+265,CSX,11408,5471,219%,35739,49428,24006,Transportation,Railroads,24,Jacksonville,FL,30.3321838,-81.655651,257,0.031
+266,Xcel Energy,11404,1148,2%,43030,23107,11105,Energy,Utilities: Gas and Electric,22,Minneapolis,MN,44.977753,-93.2650108,256,0.027
+267,Unum Group,11287,994,7%,64013,10530,9400,Financials,"Insurance: Life, Health (stock)",23,Chattanooga,TN,35.0456297,-85.3096801,258,0.022
+268,Universal Health Services,11279,752,7%,10762,11163,72300,Health Care,Health Care: Medical Facilities,15,King of Prussia,PA,40.1012856,-75.3835525,276,0.073
+269,NRG Energy,11275,-2153,-,23318,9698,5940,Energy,Energy,12,Princeton,NJ,40.3572976,-74.6672226,229,-0.087
+270,EOG Resources,11208,2583,-,29833,60913,2664,Energy,"Mining, Crude-Oil Production",10,Houston,TX,29.7604267,-95.3698028,356,0.465
+271,Sempra Energy,11207,256,-81%,50454,29351,16046,Energy,Utilities: Gas and Electric,20,San Diego,CA,32.715738,-117.1610838,280,0.101
+272,Toys 'R'ù Us,11146,-612,-,7262,-,65000,Retailing,Specialty Retailers: Other,24,Wayne,NJ,40.9253725,-74.2765441,244,-0.034
+273,Group 1 Automotive,11124,213,45%,4871,1366,14108,Retailing,"Automotive Retailing, Services",18,Houston,TX,29.7604267,-95.3698028,261,0.022
+274,Entergy,11075,412,-,46707,14298,13504,Energy,Utilities: Gas and Electric,24,New Orleans,LA,29.9510658,-90.0715323,263,0.021
+275,Molson Coors Brewing,11003,1414,-28%,30247,16238,17200,"Food, Beverages &  Tobacco",Beverages,8,Denver,CO,39.7392358,-104.990251,522,1.252
+276,L3 Technologies,11002,677,-5%,12729,16283,38000,Aerospace &  Defense,Aerospace and Defense,16,New York,NY,40.7127753,-74.0059728,273,0.038
+277,Ball,10983,374,42%,17169,13920,18300,Materials,"Packaging, Containers",22,Broomfield,CO,39.9205411,-105.0866504,306,0.212
+278,AutoZone,10889,1281,3%,9260,17450,70035,Retailing,Specialty Retailers: Other,20,Memphis,TN,35.1495343,-90.0489801,270,0.024
+279,Murphy USA,10853,245,11%,2331,2440,6900,Retailing,Specialty Retailers: Other,5,El Dorado,AR,33.20763,-92.6662674,291,0.127
+280,MGM Resorts International,10774,1960,78%,29159,19844,68500,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",18,Las Vegas,NV,36.1699412,-115.1398296,297,0.139
+281,Office Depot,10752,181,-66%,6323,1195,45000,Retailing,Specialty Retailers: Other,24,Boca Raton,FL,26.3683064,-80.1289321,203,-0.209
+282,Huntsman,10592,636,95%,10244,7090,10000,Chemicals,Chemicals,13,The Woodlands,TX,30.1658207,-95.4612625,289,0.097
+283,Baxter International,10561,717,-86%,17111,34979,47000,Health Care,Medical Products and Equipment,24,Deerfield,IL,42.1711365,-87.8445119,281,0.039
+284,Norfolk Southern,10551,5404,224%,35711,41226,27110,Transportation,Railroads,24,Norfolk,VA,36.8507689,-76.2858726,284,0.067
+285,salesforce.com,10480,128,-29%,21010,85074,29000,Technology,Computer Software,4,SF,CA,37.7749295,-122.4194155,326,0.249
+286,Laboratory Corp. of America,10441,1268,73%,16568,16482,60000,Health Care,Health Care: Pharmacy and Other Services,9,Burlington,NC,36.0956918,-79.4377991,290,0.083
+287,W.W. Grainger,10425,586,-3%,5804,15823,25050,Wholesalers,Wholesalers: Diversified,24,Lake Forest,IL,42.2586342,-87.840625,282,0.028
+288,Qurate Retail,10404,2441,98%,24122,12587,28255,Retailing,Internet Services and Retailing,14,Englewood,CO,39.6477653,-104.9877597,269,-0.023
+289,Autoliv,10383,427,-25%,8550,12710,67352,Motor Vehicles &  Parts,Motor Vehicles and Parts,20,Auburn Hills,MI,42.6875323,-83.2341028,283,0.031
+290,Live Nation Entertainment,10337,-6,-305%,7504,8772,15050,Media,Entertainment,9,Beverly Hills,CA,34.0736204,-118.4003563,330,0.237
+291,Xerox,10265,195,-,15946,7330,36100,Technology,"Computers, Office Equipment",24,Norwalk,CT,41.117744,-73.4081575,162,-0.401
+292,Leidos Holdings,10170,366,50%,8990,9918,31000,Technology,Information Technology Services,18,Reston,VA,38.9586307,-77.3570028,381,0.444
+293,Corning,10116,-497,-114%,27494,23677,46200,Industrials,"Electronics, Electrical Equip.",23,Corning,NY,42.1428521,-77.0546903,298,0.077
+294,Lithia Motors,10087,245,24%,4683,2515,12899,Retailing,"Automotive Retailing, Services",4,Medford,OR,42.3265152,-122.8755949,318,0.162
+295,Expedia Group,10060,378,34%,18516,16764,22615,Retailing,Internet Services and Retailing,4,Bellevue,WA,47.6101497,-122.2015159,317,0.147
+296,Republic Services,10042,1278,109%,21147,21832,35000,Business Services,Waste Management,9,Phoenix,AZ,33.4483771,-112.0740373,299,0.07
+297,Jacobs Engineering Group,10023,294,40%,7381,8380,49750,Engineering &  Construction,"Engineering, Construction",18,Dallas,TX,32.7766642,-96.7969879,259,-0.086
+298,Sonic Automotive,9867,93,0%,3819,804,9750,Retailing,"Automotive Retailing, Services",19,Charlotte,NC,35.2270869,-80.8431267,287,0.014
+299,Ally Financial,9866,929,-13%,167148,11767,7900,Financials,Diversified Financials,11,Detroit,MI,42.331427,-83.0457538,286,0.003
+300,LKQ,9848,534,15%,9367,11750,43000,Wholesalers,Wholesalers: Diversified,5,Chicago,IL,41.8781136,-87.6297982,304,0.084
+301,BorgWarner,9799,440,271%,9788,10586,29000,Motor Vehicles &  Parts,Motor Vehicles and Parts,12,Auburn Hills,MI,42.6875323,-83.2341028,305,0.08
+302,Fidelity National Financial,9769,771,19%,9151,10983,24525,Financials,Insurance: Property and Casualty (Stock),11,Jacksonville,FL,30.3321838,-81.655651,293,0.023
+303,SunTrust Banks,9741,2273,21%,205962,31863,23785,Financials,Commercial Banks,24,Atlanta,GA,33.7489954,-84.3879824,303,0.063
+304,IQVIA Holdings,9739,1309,1038%,22742,20433,55000,Health Care,Health Care: Pharmacy and Other Services,5,Durham,NC,35.980513,-78.90511,390,0.416
+305,Reliance Steel & Aluminum,9721,613,102%,7751,6244,14900,Materials,Metals,12,Los Angeles,CA,34.0522342,-118.2436849,320,0.129
+306,Nvidia,9714,3047,83%,11241,140112,11528,Technology,Semiconductors and Other Electronic Components,2,Santa Clara,CA,37.3541079,-121.9552356,387,0.406
+307,Voya Financial,9660,-2992,-,222532,8686,6300,Financials,Diversified Financials,4,New York,NY,40.7127753,-74.0059728,266,-0.104
+308,CenterPoint Energy,9614,1792,315%,22736,11822,7977,Energy,Utilities: Gas and Electric,24,Houston,TX,29.7604267,-95.3698028,362,0.277
+309,eBay,9567,-1016,-114%,25981,40726,14100,Technology,Internet Services and Retailing,13,San Jose,CA,37.3382082,-121.8863286,310,0.065
+310,Eastman Chemical,9549,1384,62%,15999,15073,14000,Chemicals,Chemicals,24,Kingsport,TN,36.548434,-82.5618186,309,0.06
+311,American Family Insurance Group,9545,156,-52%,24233,-,11307,Financials,Insurance: Property and Casualty (Stock),22,Madison,WI,43.0730517,-89.4012302,315,0.081
+312,Steel Dynamics,9539,813,113%,6856,10444,7635,Materials,Metals,9,Fort Wayne,IN,41.079273,-85.1393513,347,0.227
+313,Pacific Life,9510,1365,66%,157877,-,3578,Financials,"Insurance: Life, Health (stock)",22,Newport Beach,CA,33.6188829,-117.9298493,302,0.037
+314,Chesapeake Energy,9496,949,-,12425,2746,3200,Energy,"Mining, Crude-Oil Production",13,Oklahoma City,OK,35.4675602,-97.5164276,343,0.206
+315,Mohawk Industries,9491,972,4%,12095,17283,38800,Household Products,"Home Equipment, Furnishings",19,Calhoun,GA,34.502587,-84.9510542,311,0.059
+316,Quanta Services,9467,315,59%,6480,5281,32800,Engineering &  Construction,"Engineering, Construction",6,Houston,TX,29.7604267,-95.3698028,355,0.237
+317,Advance Auto Parts,9374,476,4%,8482,8770,55500,Retailing,Specialty Retailers: Other,16,Roanoke,VA,37.2709704,-79.9414266,292,-0.02
+318,Owens & Minor,9318,73,-33%,3376,961,8600,Wholesalers,Wholesalers: Health Care,24,Mechanicsville,VA,37.6087561,-77.3733139,288,-0.042
+319,United Natural Foods,9275,130,4%,2887,2165,9700,Wholesalers,Wholesalers: Food and Grocery,6,Providence,RI,41.8239891,-71.4128343,325,0.095
+320,Tenneco,9274,207,-42%,4842,2822,32000,Motor Vehicles &  Parts,Motor Vehicles and Parts,24,Lake Forest,IL,42.2586342,-87.840625,322,0.078
+321,Conagra Brands,9235,639,-,10096,14776,12600,"Food, Beverages &  Tobacco",Food Consumer Products,24,Chicago,IL,41.8781136,-87.6297982,197,-0.347
+322,GameStop,9225,35,-90%,5042,1279,39500,Retailing,Specialty Retailers: Other,12,Grapevine,TX,32.9342919,-97.0780654,321,0.072
+323,Hormel Foods,9168,847,-5%,6976,18174,20200,"Food, Beverages &  Tobacco",Food Consumer Products,24,Austin,MN,43.6666296,-92.9746367,295,-0.037
+324,Hilton Worldwide Holdings,9140,1259,262%,14308,24957,163000,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",15,McLean,VA,38.9338676,-77.1772604,241,-0.216
+325,Frontier Communications,9128,-1804,-,24884,582,22736,Telecommunications,Telecommunications,5,Norwalk,CT,41.117744,-73.4081575,313,0.026
+326,Fidelity National Information Services,9123,1319,132%,24517,31893,53000,Business Services,Financial Data Services,9,Jacksonville,FL,30.3321838,-81.655651,301,-0.013
+327,Public Service Enterprise Group,9084,1574,78%,42716,25359,12945,Energy,Utilities: Gas and Electric,24,Newark,NJ,40.735657,-74.1723667,306,0.003
+328,Boston Scientific,9048,104,-70%,19042,37688,29000,Health Care,Medical Products and Equipment,15,Marlboro,MA,42.3459271,-71.5522874,327,0.079
+329,OReilly Automotive,8978,1134,9%,7572,20607,60365,Retailing,Specialty Retailers: Other,9,Springfield,MO,37.2089572,-93.2922989,323,0.045
+330,Charles Schwab,8960,2354,25%,243274,70313,17600,Financials,Securities,20,SF,CA,37.7749295,-122.4194155,357,0.172
+331,Global Partners,8921,59,-,2320,522,2000,Wholesalers,Wholesalers: Diversified,12,Waltham,MA,42.3764852,-71.2356113,334,0.083
+332,PVH,8915,538,-2%,11886,11649,28050,Apparel,Apparel,8,New York,NY,40.7127753,-74.0059728,335,0.087
+333,Avis Budget Group,8848,361,122%,17699,3792,26300,Retailing,"Automotive Retailing, Services",21,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877,319,0.022
+334,Targa Resources,8815,54,-,14389,9629,2130,Energy,Pipelines,10,Houston,TX,29.7604267,-95.3698028,402,0.317
+335,Hertz Global Holdings,8803,327,-,20058,1662,37000,Retailing,"Automotive Retailing, Services",11,Estero,FL,26.438136,-81.8067523,296,-0.071
+336,Calpine,8752,-339,-469%,16453,-,2290,Energy,Energy,17,Houston,TX,29.7604267,-95.3698028,400,0.303
+337,Mutual of Omaha Insurance,8732,863,142%,42429,-,5896,Financials,"Insurance: Life, Health (stock)",22,Omaha,NE,41.2565369,-95.9345034,342,0.106
+338,Crown Holdings,8698,323,-35%,10663,6816,24342,Materials,"Packaging, Containers",24,Philadelphia,PA,39.9525839,-75.1652215,333,0.05
+339,Peter Kiewit Sons,8678,371,-6%,5710,-,22000,Engineering &  Construction,"Engineering, Construction",19,Omaha,NE,41.2565369,-95.9345034,324,0.012
+340,Dicks Sporting Goods,8591,323,13%,4204,3765,30300,Retailing,Specialty Retailers: Other,9,Coraopolis,PA,40.5184013,-80.1667247,340,0.084
+341,PulteGroup,8573,447,-26%,9687,8439,4810,Engineering &  Construction,Homebuilders,16,Atlanta,GA,33.7489954,-84.3879824,353,0.118
+342,Navistar International,8570,30,-,6135,3451,11400,Industrials,Construction and Farm Machinery,22,Lisle,IL,41.801141,-88.0747875,337,0.057
+343,Thrivent Financial for Lutherans,8528,558,-5%,95001,-,3622,Financials,"Insurance: Life, Health (Mutual)",24,Minneapolis,MN,44.977753,-93.2650108,316,-0.028
+344,DCP Midstream,8462,229,-27%,13878,5033,2650,Energy,Pipelines,1,Denver,CO,39.7392358,-104.990251,,4.653
+345,Air Products & Chemicals,8442,3000,375%,18467,34818,15150,Chemicals,Chemicals,24,Allentown,PA,40.6022939,-75.4714098,294,-0.114
+346,Veritiv,8365,-13,-163%,2708,617,8900,Wholesalers,Wholesalers: Diversified,3,Atlanta,GA,33.7489954,-84.3879824,331,0.005
+347,AGCO,8307,186,16%,7972,5157,20462,Industrials,Construction and Farm Machinery,17,Duluth,GA,34.0028786,-84.1446376,370,0.121
+348,Genworth Financial,8295,817,-,105297,1413,3500,Financials,"Insurance: Life, Health (stock)",13,Richmond,VA,37.5407246,-77.4360481,329,-0.009
+349,Univar,8254,120,-,5733,3920,8600,Wholesalers,Wholesalers: Diversified,3,Downers Grove,IL,41.8089191,-88.0111746,338,0.022
+350,News Corp.,8139,-738,-512%,14552,9272,26000,Media,"Publishing, Printing",4,New York,NY,40.7127753,-74.0059728,332,-0.022
+351,SpartanNash,8128,-53,-193%,2056,620,11950,Wholesalers,Wholesalers: Food and Grocery,8,Byron Center,MI,42.8122508,-85.7228061,350,0.051
+352,Westlake Chemical,8041,1304,227%,12076,14385,8799,Chemicals,Chemicals,1,Houston,TX,29.7604267,-95.3698028,507,0.584
+353,Williams,8031,2174,-,46352,20567,5425,Energy,Energy,24,Tulsa,OK,36.1539816,-95.992775,367,0.071
+354,Lam Research,8014,1698,86%,12123,33105,9400,Technology,Semiconductors and Other Electronic Components,3,Fremont,CA,37.5482697,-121.9885719,440,0.361
+355,Alaska Air Group,7933,1034,27%,10740,7646,23156,Transportation,Airlines,5,Seattle,WA,47.6062095,-122.3320708,438,0.338
+356,Jones Lang LaSalle,7932,254,-20%,8015,7930,81900,Financials,Real estate,4,Chicago,IL,41.8781136,-87.6297982,391,0.166
+357,Anixter International,7927,109,-10%,4252,2522,8900,Wholesalers,Wholesalers: Electronics and Office Equipment,16,Glenview,IL,42.0697509,-87.7878408,359,0.04
+358,Campbell Soup,7890,887,58%,7726,13021,18000,"Food, Beverages &  Tobacco",Food Consumer Products,24,Camden,NJ,39.9259463,-75.1196199,339,-0.009
+359,Interpublic Group,7882,579,-5%,12695,8854,50200,Business Services,"Advertising, marketing",21,New York,NY,40.7127753,-74.0059728,345,0.005
+360,Dover,7830,812,60%,10658,15183,29000,Industrials,Industrial Machinery,24,Downers Grove,IL,41.8089191,-88.0111746,392,0.152
+361,Zimmer Biomet Holdings,7824,1814,493%,25965,22151,18200,Health Care,Medical Products and Equipment,3,Warsaw,IN,41.2381,-85.8530469,352,0.018
+362,Dean Foods,7795,62,-49%,2504,787,16000,"Food, Beverages &  Tobacco",Food Consumer Products,20,Dallas,TX,32.7766642,-96.7969879,351,0.011
+363,Foot Locker,7782,284,-57%,3961,5379,32175,Retailing,Specialty Retailers: Apparel,24,New York,NY,40.7127753,-74.0059728,348,0.002
+364,Eversource Energy,7752,988,5%,36220,18671,8084,Energy,Utilities: Gas and Electric,23,Springfield,MA,42.1014831,-72.589811,358,0.015
+365,Alliance Data Systems,7719,789,53%,30685,11806,20000,Business Services,Financial Data Services,4,Plano,TX,33.0198431,-96.6988856,378,0.081
+366,Fifth Third Bancorp,7713,2194,40%,142193,21812,18125,Financials,Commercial Banks,19,Cincinnati,OH,39.1031182,-84.5120196,389,0.12
+367,Quest Diagnostics,7709,772,20%,10503,13619,45000,Health Care,Health Care: Pharmacy and Other Services,18,Secaucus,NJ,40.7895453,-74.0565298,366,0.026
+368,EMCOR Group,7688,227,25%,3966,4549,32000,Engineering &  Construction,"Engineering, Construction",18,Norwalk,CT,41.117744,-73.4081575,360,0.018
+369,W.R. Berkley,7685,549,-9%,24300,8836,7722,Financials,Insurance: Property and Casualty (Stock),15,Greenwich,CT,41.0262417,-73.6281964,354,0.004
+370,WESCO International,7679,164,61%,4736,2920,9100,Wholesalers,Wholesalers: Diversified,20,Pittsburgh,PA,40.4406248,-79.9958864,373,0.047
+371,Coty,7650,-422,-369%,22548,13723,22000,Household Products,Household and Personal Products,1,New York,NY,40.7127753,-74.0059728,558,0.759
+372,WEC Energy Group,7649,1204,28%,31591,19784,8129,Energy,Utilities: Gas and Electric,9,Milwaukee,WI,43.0389025,-87.9064736,368,0.024
+373,Masco,7644,533,9%,5488,12590,26000,Household Products,"Home Equipment, Furnishings",24,Livonia,MI,42.36837,-83.3527097,372,0.039
+374,DXC Technology,7607,-123,-149%,8663,28720,60000,Technology,Information Technology Services,1,Tysons,VA,38.9187222,-77.2310925,,0.071
+375,Auto-Owners Insurance,7604,646,-9%,23694,-,5227,Financials,Insurance: Property and Casualty (Mutual),16,Lansing,MI,42.732535,-84.5555347,398,0.122
+376,Jones Financial (Edward Jones),7597,872,17%,17176,-,45000,Financials,Securities,6,Des Peres,MO,38.59722,-90.448126,403,0.146
+377,Liberty Media,7594,1354,99%,41996,13816,4393,Media,Entertainment,2,Englewood,CO,39.6477653,-104.9877597,491,0.439
+378,Erie Insurance Group,7535,858,16%,20670,-,5260,Financials,Insurance: Property and Casualty (Mutual),15,Erie,PA,42.1292241,-80.085059,382,0.074
+379,Hershey,7515,783,9%,5554,20774,16135,"Food, Beverages &  Tobacco",Food Consumer Products,24,Hershey,PA,40.2859239,-76.6502468,369,0.01
+380,PPL,7447,1128,-41%,41479,19635,12512,Energy,Utilities: Gas and Electric,24,Allentown,PA,40.6022939,-75.4714098,365,-0.009
+381,Huntington Ingalls Industries,7441,479,-16%,6374,11539,38000,Aerospace &  Defense,Aerospace and Defense,6,Newport News,VA,37.0870821,-76.4730122,380,0.053
+382,Mosaic,7409,-107,-136%,18633,9358,8500,Chemicals,Chemicals,13,Plymouth,MN,45.0105194,-93.4555093,377,0.034
+383,J.M. Smucker,7392,592,-14%,15640,14087,7140,"Food, Beverages &  Tobacco",Food Consumer Products,8,Orrville,OH,40.8436663,-81.7640212,346,-0.054
+384,Delek US Holdings,7350,289,-,5935,3416,3941,Energy,Petroleum Refining,4,Brentwood,TN,36.0331164,-86.7827772,480,0.357
+385,Newmont Mining,7348,-98,-,20563,20853,12569,Energy,"Mining, Crude-Oil Production",15,Greenwood Village,CO,39.6172101,-104.9508141,328,-0.123
+386,Constellation Brands,7332,1535,46%,18602,44379,8700,"Food, Beverages &  Tobacco",Beverages,6,Victor,NY,42.9825633,-77.4088794,408,0.12
+387,Ryder System,7330,791,201%,11452,3867,36100,Transportation,"Trucking, Truck Leasing",24,Miami,FL,25.7616798,-80.1917902,394,0.08
+388,National Oilwell Varco,7304,-237,-,20206,13993,31605,Energy,"Oil and Gas Equipment, Services",13,Houston,TX,29.7604267,-95.3698028,375,0.007
+389,Adobe Systems,7302,1694,45%,14536,106413,17973,Technology,Computer Software,2,San Jose,CA,37.3382082,-121.8863286,443,0.247
+390,LifePoint Health,7263,102,-16%,6286,1832,42000,Health Care,Health Care: Medical Facilities,4,Brentwood,TN,36.0331164,-86.7827772,374,-0.001
+391,Tractor Supply,7256,423,-3%,2869,7807,21000,Retailing,Specialty Retailers: Other,5,Brentwood,TN,36.0331164,-86.7827772,396,0.07
+392,Thor Industries,7247,374,46%,2558,6069,17800,Motor Vehicles &  Parts,Motor Vehicles and Parts,1,Elkhart,IN,41.6819935,-85.9766671,540,0.582
+393,Dana,7209,111,-83%,5644,3741,30100,Motor Vehicles &  Parts,Motor Vehicles and Parts,24,Maumee,OH,41.5628294,-83.6538244,447,0.237
+394,Weyerhaeuser,7196,582,-43%,18059,26463,9300,Materials,Forest and Paper Products,24,Seattle,WA,47.6062095,-122.3320708,341,-0.089
+395,J.B. Hunt Transport Services,7190,686,59%,4465,12858,24681,Transportation,"Trucking, Truck Leasing",6,Lowell,AR,36.2553543,-94.1307587,407,0.097
+396,Darden Restaurants,7170,479,28%,5504,10531,178729,"Hotels, Restaurants &  Leisure",Food Services,22,Orlando,FL,28.5383355,-81.3792365,385,0.034
+397,Yum China Holdings,7144,403,-20%,4263,16009,450000,"Hotels, Restaurants &  Leisure",Food Services,2,Plano,TX,33.0198431,-96.6988856,399,0.058
+398,Blackstone Group,7119,1471,42%,34429,21058,2360,Financials,Diversified Financials,3,New York,NY,40.7127753,-74.0059728,503,0.389
+399,Berry Global Group,7095,340,44%,8476,7191,23000,Materials,"Packaging, Containers",2,Evansville,IN,37.9715592,-87.5710898,413,0.093
+400,Builders FirstSource,7034,39,-73%,3006,2264,15000,Materials,"Building Materials, Glass",2,Dallas,TX,32.7766642,-96.7969879,421,0.105
+401,Activision Blizzard,7017,273,-72%,18668,51177,9800,Technology,Entertainment,2,Santa Monica,CA,34.0194543,-118.4911912,406,0.062
+402,JetBlue Airways,7015,1147,51%,9781,6540,17424,Transportation,Airlines,6,,NY,40.744679,-73.9485424,403,0.058
+403,Amphenol,7011,651,-21%,10004,26311,70000,Technology,Network and Other Communications Equipment,4,Wallingford,CT,41.4570108,-72.8230736,424,0.115
+404,A-Mark Precious Metals,6990,7,-24%,479,86,126,Materials,Miscellaneous,4,El Segundo,CA,33.9191799,-118.4164652,395,0.03
+405,Spirit AeroSystems Holdings,6983,355,-24%,5268,9595,15500,Aerospace &  Defense,Aerospace and Defense,4,Wichita,KS,37.6871761,-97.330053,393,0.028
+406,R.R. Donnelley & Sons,6940,-34,-,3905,612,42700,Media,"Publishing, Printing",24,Chicago,IL,41.8781136,-87.6297982,388,0.006
+407,Harris,6939,553,71%,10090,19149,17000,Aerospace &  Defense,Aerospace and Defense,14,Melbourne,FL,28.0836269,-80.6081089,363,-0.078
+408,Expeditors Intl. of Washington,6921,489,14%,3117,11087,16500,Transportation,Transportation and Logistics,11,Seattle,WA,47.6062095,-122.3320708,429,0.135
+409,Discovery,6873,-337,-128%,22555,11156,7000,Media,Entertainment,5,Silver Spring,MD,38.9906657,-77.026088,412,0.058
+410,Owens-Illinois,6869,180,-14%,9756,3538,26500,Materials,"Packaging, Containers",24,Perrysburg,OH,41.556996,-83.627157,401,0.025
+411,Sanmina,6869,139,-26%,3847,1863,41250,Technology,Semiconductors and Other Electronic Components,18,San Jose,CA,37.3382082,-121.8863286,414,0.06
+412,KeyCorp,6868,1296,64%,137698,20570,18415,Financials,Commercial Banks,20,Cleveland,OH,41.49932,-81.6943605,479,0.267
+413,American Financial Group,6865,475,-27%,60658,9923,7600,Financials,Insurance: Property and Casualty (Stock),19,Cincinnati,OH,39.1031182,-84.5120196,411,0.056
+414,Oshkosh,6830,286,32%,5099,5768,14000,Industrials,Construction and Farm Machinery,11,Oshkosh,WI,44.0247062,-88.5426136,425,0.088
+415,Rockwell Collins,6822,705,-3%,17997,22108,29000,Aerospace &  Defense,Aerospace and Defense,7,Cedar Rapids,IA,41.9778795,-91.6656232,492,0.297
+416,Kindred Healthcare,6768,-698,-,5233,836,64200,Health Care,Health Care: Medical Facilities,15,Louisville,KY,38.2526647,-85.7584557,376,-0.064
+417,Insight Enterprises,6704,91,7%,2686,1252,6697,Technology,Information Technology Services,10,Tempe,AZ,33.4255104,-111.9400054,473,0.222
+418,Dr Pepper Snapple Group,6690,1076,27%,10022,21278,21000,"Food, Beverages &  Tobacco",Beverages,10,Plano,TX,33.0198431,-96.6988856,416,0.039
+419,American Tower,6664,1239,30%,33214,64073,4752,Financials,Real estate,2,Boston,MA,42.3600825,-71.0588801,449,0.152
+420,Fortive,6656,1045,-,10501,26979,26000,Industrials,Industrial Machinery,1,Everett,WA,47.9789848,-122.2020795,,
+421,Ralph Lauren,6653,-99,-125%,5652,9088,18250,Apparel,Apparel,10,New York,NY,40.7127753,-74.0059728,371,-0.102
+422,HRG Group,6650,106,-,35850,3328,17113,Household Products,Household and Personal Products,5,New York,NY,40.7127753,-74.0059728,418,0.039
+423,Ascena Retail Group,6650,-1067,-,3872,394,40000,Retailing,Specialty Retailers: Apparel,2,Mahwah,NJ,41.0886216,-74.1435843,384,-0.049
+424,United Rentals,6641,1346,138%,15030,14537,14800,Business Services,Miscellaneous,5,Stamford,CT,41.0534302,-73.5387341,452,0.153
+425,Caseys General Stores,6641,178,-22%,3020,4120,25463,Retailing,Specialty Retailers: Other,8,Ankeny,IA,41.7317884,-93.6001278,423,0.053
+426,Graybar Electric,6631,72,-23%,2261,-,8500,Wholesalers,Wholesalers: Diversified,24,St. Louis,MO,38.6270025,-90.1994042,420,0.039
+427,Avery Dennison,6614,282,-12%,5137,9361,30000,Materials,"Packaging, Containers",24,Glendale,CA,34.1425078,-118.255075,430,0.087
+428,MasTec,6607,347,165%,4067,3874,17300,Engineering &  Construction,"Engineering, Construction",1,Coral Gables,FL,25.72149,-80.2683838,502,0.287
+429,CMS Energy,6583,460,-17%,23050,12793,7887,Energy,Utilities: Gas and Electric,24,Jackson,MI,42.245869,-84.4013462,419,0.029
+430,HD Supply Holdings,6534,970,395%,4318,7040,11000,Wholesalers,Wholesalers: Diversified,6,Atlanta,GA,33.7489954,-84.3879824,364,-0.132
+431,Raymond James Financial,6525,636,20%,34884,13019,12700,Financials,Securities,3,St. Petersburg,FL,27.7676008,-82.6402915,469,0.182
+432,NCR,6516,232,-14%,7654,3737,34000,Technology,"Computers, Office Equipment",21,Atlanta,GA,33.7489954,-84.3879824,409,-0.004
+433,Hanesbrands,6478,62,-89%,6895,6638,67200,Apparel,Apparel,4,Winston-Salem,NC,36.0998596,-80.244216,432,0.069
+434,Asbury Automotive Group,6457,139,-17%,2357,1412,8000,Retailing,"Automotive Retailing, Services",12,Duluth,GA,34.0028786,-84.1446376,410,-0.011
+435,Citizens Financial Group,6454,1652,58%,152336,20474,17594,Financials,Commercial Banks,3,Providence,RI,41.8239891,-71.4128343,451,0.12
+436,Packaging Corp. of America,6445,669,49%,6198,10633,14600,Materials,"Packaging, Containers",4,Lake Forest,IL,42.2586342,-87.840625,450,0.115
+437,Alleghany,6425,90,-80%,25384,9460,4402,Financials,Insurance: Property and Casualty (Stock),4,New York,NY,40.7127753,-74.0059728,428,0.048
+438,Apache,6423,1304,-,21922,14678,3356,Energy,"Mining, Crude-Oil Production",15,Houston,TX,29.7604267,-95.3698028,488,0.2
+439,Dillards,6423,221,31%,3673,2289,31400,Retailing,General Merchandisers,24,Little Rock,AR,34.7464809,-92.2895948,417,0.001
+440,Assurant,6415,520,-8%,31843,4803,14175,Financials,Insurance: Property and Casualty (Stock),14,New York,NY,40.7127753,-74.0059728,361,-0.148
+441,Franklin Resources,6392,1697,-2%,17534,19133,9386,Financials,Securities,13,San Mateo,CA,37.5629917,-122.3255254,405,-0.034
+442,Owens Corning,6384,289,-27%,8632,8982,17000,Materials,"Building Materials, Glass",24,Toledo,OH,41.6528052,-83.5378674,458,0.125
+443,Motorola Solutions,6380,-155,-128%,8208,17027,15000,Technology,Network and Other Communications Equipment,24,Chicago,IL,41.8781136,-87.6297982,433,0.057
+444,NVR,6322,538,26%,2989,10262,5200,Engineering &  Construction,Homebuilders,9,Reston,VA,38.9586307,-77.3570028,446,0.084
+445,Rockwell Automation,6311,826,13%,7162,22260,22000,Industrials,"Electronics, Electrical Equip.",24,Milwaukee,WI,43.0389025,-87.9064736,442,0.073
+446,TreeHouse Foods,6307,-286,-,5779,2159,13489,"Food, Beverages &  Tobacco",Food Consumer Products,2,Oak Brook,IL,41.8397865,-87.9535534,427,0.021
+447,Wynn Resorts,6306,747,209%,12682,19778,25200,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",5,Las Vegas,NV,36.1699412,-115.1398296,548,0.412
+448,Olin,6268,550,-,9218,5081,6400,Chemicals,Chemicals,5,Clayton,MO,38.6425518,-90.3237263,467,0.129
+449,American Axle & Manufacturing,6266,337,40%,7883,1699,25000,Motor Vehicles &  Parts,Motor Vehicles and Parts,4,Detroit,MI,42.331427,-83.0457538,593,0.587
+450,Old Republic International,6263,561,20%,19404,5778,8700,Financials,Insurance: Property and Casualty (Stock),7,Chicago,IL,41.8781136,-87.6297982,439,0.061
+451,Chemours,6183,746,10557%,7293,8840,7000,Chemicals,Chemicals,2,Wilmington,DE,39.7390721,-75.5397878,482,0.145
+452,iHeartMedia,6178,-704,-,12257,39,18700,Media,Entertainment,18,San Antonio,TX,29.4241219,-98.4936282,426,-0.015
+453,Ameren,6177,523,-20%,25945,13740,8615,Energy,Utilities: Gas and Electric,21,St. Louis,MO,38.6270025,-90.1994042,431,0.017
+454,Arthur J. Gallagher,6160,463,12%,12897,12512,26783,Financials,Diversified Financials,3,Rolling Meadows,IL,42.0841936,-88.0131275,462,0.101
+455,Celanese,6140,843,-6%,9538,13611,7592,Chemicals,Chemicals,13,Irving,TX,32.8140177,-96.9488945,484,0.139
+456,Sealed Air,6131,815,68%,5280,7162,15000,Materials,"Packaging, Containers",21,Charlotte,NC,35.2270869,-80.8431267,397,-0.096
+457,UGI,6121,437,20%,11582,7685,13000,Energy,Energy,14,King of Prussia,PA,40.1012856,-75.3835525,457,0.077
+458,Realogy Holdings,6114,431,102%,7337,3568,11800,Financials,Real estate,8,Madison,NJ,40.7598227,-74.417097,448,0.052
+459,Burlington Stores,6110,385,78%,2813,9018,40000,Retailing,Specialty Retailers: Apparel,3,Burlington,NJ,40.071222,-74.8648873,463,0.093
+460,Regions Financial,6093,1263,9%,124294,20861,21714,Financials,Commercial Banks,20,Birmingham,AL,33.5206608,-86.80249,436,0.021
+461,AK Steel Holding,6081,6,-,4296,1428,9200,Materials,Metals,18,Beckett Ridge,OH,39.3321262,-84.4172666,441,0.034
+462,Securian Financial Group,6067,419,69%,51232,-,5000,Financials,"Insurance: Life, Health (stock)",1,St Paul,MN,44.9537029,-93.0899578,532,0.27
+463,S& P Global,6063,1496,-29%,9425,47643,20400,Business Services,Financial Data Services,24,New York,NY,40.7127753,-74.0059728,459,0.071
+464,Markel,6062,395,-13%,32805,16264,15600,Financials,Insurance: Property and Casualty (Stock),3,Glen Allen,VA,37.665978,-77.5063739,460,0.08
+465,TravelCenters of America,6052,9,-,1618,144,19611,Retailing,Specialty Retailers: Other,11,Westlake,OH,41.4553232,-81.9179173,470,0.098
+466,Conduent,6022,181,-,7548,3923,90000,Business Services,Diversified Outsourcing Services,1,Florham Park,NJ,40.787878,-74.3882072,,
+467,M& T Bank Corp.,6019,1408,7%,118594,27379,16354,Financials,Commercial Banks,3,Buffalo,NY,42.8864468,-78.8783689,455,0.052
+468,Clorox,5973,701,8%,4573,17225,8100,Household Products,Household and Personal Products,19,Oakland,CA,37.8043637,-122.2711137,453,0.037
+469,AmTrust Financial Services,5959,-349,-185%,25219,2416,9300,Financials,Insurance: Property and Casualty (Stock),2,New York,NY,40.7127753,-74.0059728,475,0.093
+470,KKR,5930,1018,229%,45835,9882,1184,Financials,Securities,6,New York,NY,40.7127753,-74.0059728,656,0.714
+471,Ulta Beauty,5885,555,36%,2909,12459,24200,Retailing,Specialty Retailers: Other,1,Bolingbrook,IL,41.6986416,-88.0683955,524,0.212
+472,Yum Brands,5878,1340,-17%,5311,28307,60000,"Hotels, Restaurants &  Leisure",Food Services,20,Louisville,KY,38.2526647,-85.7584557,422,-0.077
+473,Regeneron Pharmaceuticals,5872,1199,34%,8764,37087,6200,Health Care,Pharmaceuticals,1,Tarrytown,NY,41.0762077,-73.8587461,523,0.208
+474,Windstream Holdings,5853,-2117,-,11084,289,12979,Telecommunications,Telecommunications,6,Little Rock,AR,34.7464809,-92.2895948,485,0.086
+475,Magellan Health,5838,110,42%,2957,2605,10700,Health Care,Health Care: Insurance and Managed Care,1,Scottsdale,AZ,33.4941704,-111.9260519,526,0.207
+476,Western & Southern Financial,5836,310,29%,46395,-,2226,Financials,"Insurance: Life, Health (Mutual)",14,Cincinnati,OH,39.1031182,-84.5120196,483,0.081
+477,Intercontinental Exchange,5834,2514,77%,78264,42132,4952,Financials,Securities,2,Atlanta,GA,33.7489954,-84.3879824,437,-0.021
+478,Ingredion,5832,519,7%,6080,9313,11000,"Food, Beverages &  Tobacco",Food Production,7,Westchester,IL,41.8498339,-87.8806738,456,0.023
+479,Wyndham Destinations,5821,871,43%,10403,11411,39200,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",5,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877,461,0.04
+480,Toll Brothers,5815,536,40%,9445,6566,4500,Engineering &  Construction,Homebuilders,6,Horsham,PA,40.1784422,-75.1285061,497,0.125
+481,Seaboard,5809,247,-21%,5161,4992,11800,"Food, Beverages &  Tobacco",Food Production,8,Merriam,KS,39.0236165,-94.6935701,486,0.08
+482,Booz Allen Hamilton,5804,253,-14%,3373,5617,23300,Technology,Information Technology Services,8,McLean,VA,38.9338676,-77.1772604,481,0.074
+483,First American Financial,5772,423,23%,9573,6511,18705,Financials,Insurance: Property and Casualty (Stock),4,Santa Ana,CA,33.7454725,-117.867653,464,0.035
+484,Cincinnati Financial,5732,1045,77%,21843,12185,4925,Financials,Insurance: Property and Casualty (Stock),4,Fairfield,OH,39.3454673,-84.5603187,476,0.052
+485,Avon Products,5716,22,-,3698,1251,25000,Household Products,Household and Personal Products,24,Rye,NY,40.9806535,-73.6837399,444,-0.023
+486,Northern Trust,5716,1199,16%,138591,23264,18100,Financials,Commercial Banks,7,Chicago,IL,41.8781136,-87.6297982,501,0.111
+487,Fiserv,5696,1246,34%,10289,29466,24000,Business Services,Financial Data Services,8,Brookfield,WI,43.0605671,-88.1064787,471,0.035
+488,Harley-Davidson,5647,522,-25%,9973,7198,5800,Transportation,Transportation Equipment,17,Milwaukee,WI,43.0389025,-87.9064736,435,-0.058
+489,Cheniere Energy,5601,-393,-,27906,12703,1230,Energy,Energy,1,Houston,TX,29.7604267,-95.3698028,,3.365
+490,Patterson,5593,171,-9%,3508,2104,7500,Wholesalers,Wholesalers: Health Care,2,St Paul,MN,44.9537029,-93.0899578,466,0.007
+491,Peabody Energy,5579,188,-,8181,4649,7100,Energy,"Mining, Crude-Oil Production",13,St. Louis,MO,38.6270025,-90.1994042,533,0.183
+492,ON Semiconductor,5543,811,345%,7195,10406,34000,Technology,Semiconductors and Other Electronic Components,1,Phoenix,AZ,33.4483771,-112.0740373,598,0.419
+493,Simon Property Group,5539,1948,6%,32258,47861,4150,Financials,Real estate,5,Indianapolis,IN,39.768403,-86.158068,477,0.019
+494,Western Union,5524,-557,-320%,9231,8857,11500,Business Services,Financial Data Services,12,Englewood,CO,39.6477653,-104.9877597,478,0.019
+495,NetApp,5519,509,122%,9493,16528,10100,Technology,"Computers, Office Equipment",7,Sunnyvale,CA,37.36883,-122.0363496,468,-0.005
+496,Polaris Industries,5505,173,-19%,3090,7224,11000,Transportation,Transportation Equipment,1,Medina,MN,45.0352411,-93.5824586,537,0.198
+497,Pioneer Natural Resources,5455,833,-,17003,29254,3836,Energy,"Mining, Crude-Oil Production",2,Irving,TX,32.8140177,-96.9488945,606,0.427
+498,ABM Industries,5454,4,-93%,3813,2200,140000,Business Services,Diversified Outsourcing Services,3,New York,NY,40.7127753,-74.0059728,500,0.06
+499,Vistra Energy,5430,-254,-,14600,8925,4150,Energy,Energy,2,Irving,TX,32.8140177,-96.9488945,499,0.052
+500,Cintas,5429,481,-31%,6844,18165,42000,Business Services,Diversified Outsourcing Services,1,Cincinnati,OH,39.1031182,-84.5120196,520,0.107
+501,Hess,5405,-4074,-,23112,15948,2075,Energy,"Mining, Crude-Oil Production",-,New York,NY,40.7127753,-74.0059728,525,
+502,Host Hotels & Resorts,5387,564,-26%,11693,13822,205,Financials,Real estate,-,Bethesda,MD,38.984652,-77.0947092,472,
+503,Kelly Services,5374,72,-41%,2378,1116,7800,Business Services,Temporary Help,-,Troy,MI,42.6064095,-83.1497751,490,
+504,Genesis Healthcare,5374,-579,-,4788,241,68700,Health Care,Health Care: Medical Facilities,-,Kennett Square,PA,39.8467767,-75.7116032,454,
+505,Michaels Cos.,5362,391,3%,2300,3586,30500,Retailing,Specialty Retailers: Other,-,Irving,TX,32.8140177,-96.9488945,496,
+506,Advanced Micro Devices,5329,43,-,3540,9740,8900,Technology,Semiconductors and Other Electronic Components,-,Santa Clara,CA,37.3541079,-121.9552356,565,
+507,Zoetis,5307,864,5%,8586,40524,9200,Health Care,Pharmaceuticals,-,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877,521,
+508,Williams-Sonoma,5292,260,-15%,2786,4441,19350,Retailing,Specialty Retailers: Other,-,SF,CA,37.7749295,-122.4194155,506,
+509,Fortune Brands Home & Security,5283,473,14%,5511,8717,23870,Household Products,"Home Equipment, Furnishings",-,Deerfield,IL,42.1711365,-87.8445119,511,
+510,Big Lots,5271,190,24%,1652,1830,22900,Retailing,Specialty Retailers: Other,-,Columbus,OH,39.9611755,-82.9987942,495,
+511,Robert Half International,5267,291,-15%,1868,7194,17200,Business Services,Temporary Help,-,Menlo Park,CA,37.4529598,-122.1817252,493,
+512,Post Holdings,5226,48,-,11877,4968,11410,"Food, Beverages &  Tobacco",Food Consumer Products,-,St. Louis,MO,38.6270025,-90.1994042,508,
+513,Hasbro,5210,397,-28%,5290,10468,5400,Household Products,"Toys, Sporting Goods",-,Pawtucket,RI,41.878711,-71.3825558,509,
+514,Hanover Insurance Group,5184,186,20%,15470,5017,4600,Financials,Insurance: Property and Casualty (Stock),-,Worcester,MA,42.2625932,-71.8022934,517,
+515,Navient,5179,292,-57%,114991,3456,6700,Financials,Diversified Financials,-,Wilmington,DE,39.7390721,-75.5397878,514,
+516,Intuit,5177,971,-1%,4068,44397,8200,Technology,Computer Software,-,Mountain View,CA,37.3860517,-122.0838511,527,
+517,Domtar,5157,-258,-302%,5212,2667,10000,Materials,Forest and Paper Products,-,Fort Mill,SC,35.0073697,-80.9450759,505,
+518,Marathon Oil,5153,-5723,-,22012,13707,2300,Energy,"Mining, Crude-Oil Production",-,Houston,TX,29.7604267,-95.3698028,536,
+519,Cerner,5142,867,36%,6469,19291,26000,Health Care,Health Care: Pharmacy and Other Services,-,North Kansas City,MO,39.1429081,-94.5729781,530,
+520,Analog Devices,5108,727,-16%,21141,33700,15300,Technology,Semiconductors and Other Electronic Components,-,Norwood,MA,42.1943909,-71.1989695,660,
+521,Telephone & Data Systems,5044,153,256%,9295,3115,9900,Telecommunications,Telecommunications,-,Chicago,IL,41.8781136,-87.6297982,504,
+522,Essendant,5037,-267,-518%,1774,294,6400,Wholesalers,Wholesalers: Electronics and Office Equipment,-,Deerfield,IL,42.1711365,-87.8445119,487,
+523,Sonoco Products,5037,175,-39%,4558,4829,21000,Materials,"Packaging, Containers",-,Hartsville,SC,34.3740431,-80.0734005,531,
+524,Juniper Networks,5027,306,-48%,9834,8364,9381,Technology,Network and Other Communications Equipment,-,Sunnyvale,CA,37.36883,-122.0363496,510,
+525,Commercial Metals,4999,46,-15%,2975,2394,8797,Materials,Metals,-,Irving,TX,32.8140177,-96.9488945,535,
+526,CSRA,4993,304,249%,4888,6759,18500,Technology,Information Technology Services,-,Falls Church,VA,38.882334,-77.1710914,570,
+527,Under Armour,4977,-48,-119%,4006,6756,11350,Apparel,Apparel,-,Baltimore,MD,39.2903848,-76.6121893,528,
+528,RPM International,4958,182,-49%,5090,6372,14318,Chemicals,Chemicals,-,Medina,OH,41.143245,-81.8552196,529,
+529,Total System Services,4928,586,83%,6332,15676,11800,Business Services,Financial Data Services,-,Columbus,GA,32.4609764,-84.9877094,579,
+530,Levi Strauss,4904,281,-3%,3355,0,13800,Apparel,Apparel,-,SF,CA,37.7749295,-122.4194155,542,
+531,Brunswick,4898,146,-47%,3358,5188,15116,Transportation,Transportation Equipment,-,Libertyville,IL,42.2333571,-87.9259058,547,
+532,YRC Worldwide,4891,-11,-150%,1586,299,32000,Transportation,"Trucking, Truck Leasing",-,Overland Park,KS,38.9822282,-94.6707917,534,
+533,Mattel,4882,-1054,-431%,6239,4523,28000,Household Products,"Toys, Sporting Goods",-,El Segundo,CA,33.9191799,-118.4164652,474,
+534,FM Global,4875,254,-68%,23247,-,5441,Financials,Insurance: Property and Casualty (Stock),-,Johnston,RI,41.8205199,-71.512617,557,
+535,NiSource,4875,129,-61%,19962,8068,8175,Energy,Utilities: Gas and Electric,-,Merrillville,IN,41.4828144,-87.3328139,545,
+536,Caesars Entertainment,4852,-375,-,25512,7838,65000,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Las Vegas,NV,36.1699412,-115.1398296,541,
+537,Electronic Arts,4845,967,-16%,7718,37188,8800,Technology,Entertainment,-,Redwood City,CA,37.4852152,-122.2363548,556,
+538,Dynegy,4842,76,-,11771,1952,2489,Energy,Energy,-,Houston,TX,29.7604267,-95.3698028,561,
+539,McCormick,4834,477,1%,10386,13964,11700,"Food, Beverages &  Tobacco",Food Consumer Products,-,Sparks Glencoe,MD,39.5309389,-76.6458043,553,
+540,T. Rowe Price,4793,1498,23%,7535,26409,6881,Financials,Securities,-,Baltimore,MD,39.2903848,-76.6121893,573,
+541,Orbital ATK,4764,310,6%,5666,7665,13900,Aerospace &  Defense,Aerospace and Defense,-,Sterling,VA,38.9624899,-77.4380485,549,
+542,Tutor Perini,4757,148,55%,4264,1098,10061,Engineering &  Construction,"Engineering, Construction",-,Los Angeles,CA,34.3058279,-118.4571974,513,
+543,Brookdale Senior Living,4747,-571,-,7675,1252,62550,Health Care,Health Care: Medical Facilities,-,Brentwood,TN,36.0331164,-86.7827772,512,
+544,Huntington Bancshares,4740,1186,67%,104185,16209,15770,Financials,Commercial Banks,-,Columbus,OH,39.9611755,-82.9987942,610,
+545,Wayfair,4721,-245,-,1213,5977,7751,Technology,Internet Services and Retailing,-,Boston,MA,42.3600825,-71.0588801,666,
+546,Rush Enterprises,4714,172,324%,2890,1609,6825,Retailing,"Automotive Retailing, Services",-,New Braunfels,TX,29.7030024,-98.1244531,575,
+547,Xylem,4707,331,27%,6860,13839,16200,Industrials,Industrial Machinery,-,Rye Brook,NY,41.0192641,-73.6834621,611,
+548,Neiman Marcus Group,4706,-532,-,7704,-,13700,Retailing,Specialty Retailers: Apparel,-,Dallas,TX,32.7766642,-96.7969879,515,
+549,Hyatt Hotels,4685,249,22%,7672,9054,45000,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Chicago,IL,41.8781136,-87.6297982,552,
+550,Sprouts Farmers Market,4665,158,28%,1582,3122,27000,Food &  Drug Stores,Food and Drug Stores,-,Phoenix,AZ,33.4483771,-112.0740373,585,
+551,Diebold Nixdorf,4609,-233,-,5250,1170,23000,Technology,"Computers, Office Equipment",-,North Canton,OH,40.875891,-81.4023356,672,
+552,Roper Technologies,4608,972,48%,14316,28862,14236,Technology,"Scientific,Photographic and  Control Equipment",-,Sarasota,FL,27.3364347,-82.5306527,609,
+553,Smart & Final Stores,4571,-139,-1173%,1810,412,7570,Food &  Drug Stores,Food and Drug Stores,-,Commerce,CA,34.0005691,-118.1597929,559,
+554,CommScope Holding,4561,194,-13%,7042,7670,20000,Technology,Network and Other Communications Equipment,-,Newton,NC,35.7344538,-81.3444573,518,
+555,Tapestry,4488,591,28%,5832,14988,12450,Apparel,Apparel,-,New York City,NY,40.7127753,-74.0059728,546,
+556,Diplomat Pharmacy,4485,16,-45%,1940,1493,2298,Health Care,Health Care: Pharmacy and Other Services,-,Flint,MI,43.0125274,-83.6874562,554,
+557,Chipotle Mexican Grill,4476,176,668%,2046,9025,68890,"Hotels, Restaurants &  Leisure",Food Services,-,Denver,CO,39.7392358,-104.990251,599,
+558,Agilent Technologies,4472,684,48%,8426,21574,13500,Technology,"Scientific,Photographic and  Control Equipment",-,Santa Clara,CA,37.3541079,-121.9552356,576,
+559,Science Applications International,4454,179,25%,2073,3332,15391,Technology,Information Technology Services,-,Reston,VA,38.9586307,-77.3570028,551,
+560,MDU Resources Group,4444,281,336%,6335,5500,10140,Energy,Energy,-,Bismarck,ND,46.8083268,-100.7837392,569,
+561,Select Medical Holdings,4444,177,54%,5127,2313,36050,Health Care,Health Care: Medical Facilities,-,Mechanicsburg,PA,40.2142565,-77.0085876,563,
+562,Boise Cascade,4432,83,117%,1607,1500,6370,Wholesalers,Wholesalers: Diversified,-,Boise,ID,43.6150186,-116.2023137,597,
+563,National General Holdings,4431,106,-40%,8440,2598,7570,Financials,Insurance: Property and Casualty (Stock),-,New York,NY,40.7127753,-74.0059728,643,
+564,SCANA,4407,-119,-120%,18739,5356,5228,Energy,Utilities: Gas and Electric,-,Cayce,SC,33.9657091,-81.0739827,572,
+565,Graphic Packaging Holding,4404,300,32%,4863,4754,13000,Materials,"Packaging, Containers",-,Atlanta,GA,33.7489954,-84.3879824,562,
+566,Fastenal,4391,579,16%,2911,15703,20565,Wholesalers,Wholesalers: Diversified,-,Winona,MN,44.0553908,-91.6663523,591,
+567,Schneider National,4384,390,149%,3331,4610,19600,Transportation,"Trucking, Truck Leasing",-,Green Bay,WI,44.5133188,-88.0132958,,
+568,Laureate Education,4378,92,-75%,7392,2578,54500,Business Services,Education,-,Baltimore,MD,39.2903848,-76.6121893,571,
+569,Beacon Roofing Supply,4377,101,12%,3450,3609,5406,Wholesalers,Wholesalers: Diversified,-,Herndon,VA,38.9695545,-77.3860976,582,
+570,KB Home,4369,181,71%,5042,2468,1915,Engineering &  Construction,Homebuilders,-,Los Angeles,CA,34.0522342,-118.2436849,634,
+571,Equinix,4368,233,84%,18692,33128,7273,Financials,Real estate,-,Redwood City,CA,37.4852152,-122.2363548,624,
+572,Terex,4363,129,-,3463,3030,10700,Industrials,Construction and Farm Machinery,-,Westport,CT,41.1414717,-73.3579049,445,
+573,Crown Castle International,4356,445,25%,32230,45452,4500,Financials,Real estate,-,Houston,TX,29.7604267,-95.3698028,596,
+574,CACI International,4355,164,15%,3911,3727,18600,Technology,Information Technology Services,-,Arlington,VA,38.8816208,-77.0909809,615,
+575,Watsco,4342,208,14%,2047,6752,5200,Wholesalers,Wholesalers: Diversified,-,Miami,FL,25.7616798,-80.1917902,574,
+576,Coca-Cola Bottling,4324,97,93%,3073,1615,15500,"Food, Beverages &  Tobacco",Beverages,-,Charlotte,NC,35.2270869,-80.8431267,701,
+577,Welltower,4317,523,-52%,27944,20246,392,Financials,Real estate,-,Toledo,OH,41.6528052,-83.5378674,564,
+578,ADT,4316,343,-,17015,5941,18000,Business Services,Diversified Outsourcing Services,-,Boca Raton,FL,26.3683064,-80.1289321,,
+579,Ametek,4300,682,33%,7796,17590,16900,Technology,"Scientific,Photographic and  Control Equipment",-,Berwyn,PA,40.045824,-75.4395931,604,
+580,CNO Financial Group,4297,176,-51%,33110,3630,3300,Financials,"Insurance: Life, Health (stock)",-,Carmel,IN,39.978371,-86.1180435,590,
+581,Camping World Holdings,4285,28,-85%,2562,3084,10227,Retailing,"Automotive Retailing, Services",-,Lincolnshire,IL,42.1900249,-87.9084039,648,
+582,LPL Financial Holdings,4282,239,25%,5359,5510,3736,Financials,Securities,-,Boston,MA,42.3600825,-71.0588801,584,
+583,Noble Energy,4256,-1118,-,21476,14913,2277,Energy,"Mining, Crude-Oil Production",-,Houston,TX,29.7604267,-95.3698028,653,
+584,Bloomin Brands,4213,100,140%,2573,2256,94000,"Hotels, Restaurants &  Leisure",Food Services,-,Tampa,FL,27.950575,-82.4571776,568,
+585,Moodys,4204,1001,275%,8594,30826,11896,Business Services,Financial Data Services,-,New York,NY,40.7127753,-74.0059728,631,
+586,Symantec,4191,-106,-104%,18174,16067,13000,Technology,Computer Software,-,Mountain View,CA,37.3860517,-122.0838511,465,
+587,Amkor Technology,4187,261,59%,4522,2425,29300,Technology,Semiconductors and Other Electronic Components,-,Tempe,AZ,33.4255104,-111.9400054,600,
+588,Skechers U.S.A.,4181,179,-26%,2735,6231,8150,Apparel,Apparel,-,Manhattan Beach,CA,33.8847361,-118.4109089,638,
+589,KBR,4171,434,-,3674,2271,20000,Engineering &  Construction,"Engineering, Construction",-,Houston,TX,29.7604267,-95.3698028,567,
+590,Tiffany,4170,370,-17%,5468,12149,13100,Retailing,Specialty Retailers: Other,-,New York,NY,40.7127753,-74.0059728,588,
+591,Torchmark,4156,1455,165%,23475,9583,3102,Financials,"Insurance: Life, Health (stock)",-,McKinney,TX,33.1972465,-96.6397822,580,
+592,Broadridge Financial Solutions,4143,327,6%,3150,12796,10000,Business Services,Financial Data Services,-,Lake Success,NY,40.7706572,-73.7176312,749,
+593,Quad/Graphics,4131,107,139%,2452,1336,21100,Media,"Publishing, Printing",-,Sussex,WI,43.13418,-88.22294,560,
+594,CF Industries Holdings,4130,358,-,13463,8805,2950,Chemicals,Chemicals,-,Deerfield,IL,42.1711365,-87.8445119,622,
+595,Carlisle,4090,366,46%,5300,6408,14800,Materials,"Building Materials, Glass",-,Scottsdale,AZ,33.4941704,-111.9260519,623,
+596,Silgan Holdings,4090,270,76%,4645,3074,12515,Materials,"Packaging, Containers",-,Stamford,CT,41.0534302,-73.5387341,629,
+597,Bemis,4046,94,-60%,3700,4002,16582,Materials,"Packaging, Containers",-,Neenah,WI,44.1858193,-88.462609,587,
+598,CA,4036,775,-1%,12610,14134,11800,Technology,Computer Software,-,New York,NY,40.7127753,-74.0059728,583,
+599,Hub Group,4035,135,81%,1671,1439,4377,Transportation,Transportation and Logistics,-,Oak Brook,IL,41.8397865,-87.9535534,640,
+600,Worldpay,4027,130,-39%,8667,25915,3560,Business Services,Financial Data Services,-,Cincinnati,OH,39.2807348,-84.3173878,637,
+601,Ingles Markets,4003,54,-1%,1733,686,17250,Food &  Drug Stores,Food and Drug Stores,-,Black Mountain,NC,35.6178951,-82.3212302,608,
+602,Snap-on,4000,558,2%,5249,8367,12600,Industrials,Industrial Machinery,-,Kenosha,WI,42.5847425,-87.8211854,618,
+603,Dentsply Sirona,3993,-1550,-461%,10375,11439,16100,Health Care,Medical Products and Equipment,-,York,PA,39.9625984,-76.727745,614,
+604,Calumet Specialty Products,3992,-104,-,2689,541,1600,Energy,Petroleum Refining,-,Indianapolis,IN,39.768403,-86.158068,632,
+605,Global Payments,3975,468,132%,12998,17789,10000,Business Services,Financial Data Services,-,Atlanta,GA,33.7489954,-84.3879824,669,
+606,Encompass Health,3971,256,4%,4894,5611,30935,Health Care,Health Care: Medical Facilities,-,Birmingham,AL,33.5206608,-86.80249,619,
+607,Martin Marietta Materials,3966,713,68%,8993,13019,8406,Materials,"Building Materials, Glass",-,Raleigh,NC,35.7795897,-78.6381787,607,
+608,Nasdaq,3965,734,580%,15786,14361,4734,Financials,Securities,-,New York,NY,40.7127753,-74.0059728,620,
+609,Leggett & Platt,3944,293,-24%,3551,5842,22200,Household Products,"Home Equipment, Furnishings",-,Carthage,MO,37.176447,-94.3102228,613,
+610,Universal Forest Products,3941,120,18%,1465,1986,10000,Materials,"Building Materials, Glass",-,Grand Rapids,MI,42.9633599,-85.6680863,687,
+611,Sally Beauty Holdings,3938,215,-4%,2123,2058,21755,Retailing,Specialty Retailers: Other,-,Denton,TX,33.2148412,-97.1330683,592,
+612,Flowers Foods,3921,150,-8%,2660,4604,9800,"Food, Beverages &  Tobacco",Food Consumer Products,-,Thomasville,GA,30.8365815,-83.9787808,594,
+613,Barnes & Noble,3895,22,-,1933,360,18592,Retailing,Specialty Retailers: Other,-,New York,NY,40.7127753,-74.0059728,555,
+614,American Equity Investment Life,3892,175,110%,62031,2639,515,Financials,"Insurance: Life, Health (stock)",-,West Des Moines,IA,41.5772115,-93.711332,883,
+615,Vulcan Materials,3890,601,43%,9505,15110,8287,Materials,"Building Materials, Glass",-,Birmingham,AL,33.5206608,-86.80249,635,
+616,Taylor Morrison Home,3885,91,73%,4326,2610,1800,Engineering &  Construction,Homebuilders,-,Scottsdale,AZ,33.4941704,-111.9260519,644,
+617,Westinghouse Air Brake,3882,262,-14%,6580,7822,18000,Industrials,Industrial Machinery,-,Wilmerding,PA,40.3909023,-79.8100472,742,
+618,Crestwood Equity Partners,3881,-192,-,4285,1824,954,Energy,Energy,-,Houston,TX,29.7604267,-95.3698028,805,
+619,Iron Mountain,3846,184,75%,10972,9375,24000,Business Services,Diversified Outsourcing Services,-,Boston,MA,42.3600825,-71.0588801,649,
+620,Lennox International,3840,306,10%,1892,8415,11450,Industrials,Industrial Machinery,-,Richardson,TX,32.9483335,-96.7298519,627,
+621,General Cable,3837,-57,-,2235,1499,8500,Industrials,"Electronics, Electrical Equip.",-,Highland Heights,KY,39.0331169,-84.4518854,603,
+622,American Eagle Outfitters,3796,204,-4%,1816,3540,24100,Retailing,Specialty Retailers: Apparel,-,Pittsburgh,PA,40.4406248,-79.9958864,630,
+623,Church & Dwight,3776,743,62%,6015,12294,4700,Household Products,Household and Personal Products,-,Ewing Township,NJ,40.2599864,-74.7909125,652,
+624,Platform Specialty Products,3776,-296,-,10252,2774,7850,Chemicals,Chemicals,-,West Palm Beach,FL,26.7153424,-80.0533746,636,
+625,JELD-WEN Holding,3764,11,-97%,2863,3257,21000,Materials,"Building Materials, Glass",-,Charlotte,NC,35.2270869,-80.8431267,,
+626,OneMain Holdings,3756,183,-15%,19433,4062,10100,Financials,Diversified Financials,-,Evansville,IN,37.9715592,-87.5710898,602,
+627,Colfax,3737,151,18%,6710,3934,14300,Industrials,Industrial Machinery,-,Annapolis Junction,MD,39.1202934,-76.7769324,626,
+628,Zebra Technologies,3722,17,-,4275,7412,7000,Industrials,"Electronics, Electrical Equip.",-,Lincolnshire,IL,42.1900249,-87.9084039,639,
+629,Andersons,3686,43,267%,2162,943,1819,"Food, Beverages &  Tobacco",Food Production,-,Maumee,OH,41.5628294,-83.6538244,595,
+630,TD Ameritrade Holding,3685,872,4%,38627,33605,10412,Financials,Securities,-,Omaha,NE,41.2565369,-95.9345034,674,
+631,Carlyle Group,3676,244,3714%,12281,2145,1600,Financials,Securities,-,Leavenworth,WA,47.7510741,-120.7401385,869,
+632,Hubbell,3669,243,-17%,3721,6678,17700,Industrials,"Electronics, Electrical Equip.",-,Shelton,CT,41.3164856,-73.0931641,650,
+633,Trinity Industries,3663,703,105%,9543,4921,15605,Transportation,Transportation Equipment,-,Dallas,TX,32.7766642,-96.7969879,539,
+634,Darling Ingredients,3662,129,26%,4958,2848,9800,"Food, Beverages &  Tobacco",Food Production,-,Irving,TX,32.8140177,-96.9488945,665,
+635,Flowserve,3661,3,-98%,4911,5668,17000,Industrials,Industrial Machinery,-,Irving,TX,32.8140177,-96.9488945,589,
+636,Antero Resources,3656,615,-,15262,6283,593,Energy,"Mining, Crude-Oil Production",-,Denver,CO,39.7392358,-104.990251,,
+637,Skyworks Solutions,3651,1010,2%,4574,18264,8400,Technology,Semiconductors and Other Electronic Components,-,Woburn,MA,42.4792618,-71.1522765,680,
+638,Landstar System,3649,177,29%,1353,4604,1273,Transportation,"Trucking, Truck Leasing",-,Jacksonville,FL,30.3321838,-81.655651,699,
+639,Buckeye Partners,3648,479,-11%,10305,5494,1870,Energy,Pipelines,-,Houston,TX,29.7604267,-95.3698028,685,
+640,MRC Global,3646,50,-,2340,1517,3580,Energy,"Oil and Gas Equipment, Services",-,Houston,TX,29.7604267,-95.3698028,726,
+641,CME Group,3645,4063,165%,75791,55058,2830,Financials,Securities,-,Chicago,IL,41.8781136,-87.6297982,633,
+642,Greif,3638,119,58%,3232,2636,13000,Materials,"Packaging, Containers",-,Delaware,OH,40.2986724,-83.067965,676,
+643,Nexeo Solutions,3637,14,-,2254,960,2640,Wholesalers,Wholesalers: Diversified,-,The Woodlands,TX,30.1658207,-95.4612625,,
+644,Cooper-Standard Holdings,3618,135,-3%,2726,2200,32000,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Novi,MI,42.48059,-83.4754913,655,
+645,Urban Outfitters,3616,108,-50%,1953,4001,16330,Retailing,Specialty Retailers: Apparel,-,Philadelphia,PA,39.9525839,-75.1652215,645,
+646,LSC Communications,3603,-57,-154%,2014,608,24000,Media,"Publishing, Printing",-,Chicago,IL,41.8781136,-87.6297982,625,
+647,Sabre,3599,243,0%,5649,5887,9000,Technology,Internet Services and Retailing,-,Southlake,TX,32.9412363,-97.1341783,668,
+648,Green Plains,3596,61,473%,2785,688,1427,Energy,Energy,-,Omaha,NE,41.2565369,-95.9345034,662,
+649,Hexion,3591,-234,-,2097,-,4300,Chemicals,Chemicals,-,Columbus,OH,39.9611755,-82.9987942,659,
+650,Stericycle,3581,42,-80%,6988,5007,23200,Business Services,Waste Management,-,Lake Forest,IL,42.2586342,-87.840625,642,
+651,Warner Music Group,3576,143,472%,5718,-,4520,Media,Entertainment,-,New York,NY,40.7127753,-74.0059728,686,
+652,Ventas,3574,1357,109%,23955,17643,493,Financials,Real estate,-,Chicago,IL,41.8781136,-87.6297982,658,
+653,ScanSource,3568,69,9%,1718,909,2000,Wholesalers,Wholesalers: Electronics and Office Equipment,-,Greenville,SC,34.8526176,-82.3940104,647,
+654,Pinnacle West Capital,3565,489,11%,17019,8932,6292,Energy,Utilities: Gas and Electric,-,Phoenix,AZ,33.4483771,-112.0740373,651,
+655,Scripps Networks Interactive,3562,624,-7%,6522,0,3600,Media,Entertainment,-,Knoxville,TN,35.9606384,-83.9207392,664,
+656,Alexion Pharmaceuticals,3551,443,11%,13583,24784,2525,Health Care,Pharmaceuticals,-,New Haven,CT,41.308274,-72.9278835,714,
+657,Pitney Bowes,3550,261,182%,6679,2038,14700,Technology,"Computers, Office Equipment",-,Stamford,CT,41.0534302,-73.5387341,663,
+658,CIT Group,3545,468,-,49279,6649,4167,Financials,Commercial Banks,-,New York,NY,40.7127753,-74.0059728,550,
+659,Country Financial,3542,187,39%,14664,-,3834,Financials,Insurance: Property and Casualty (Mutual),-,Bloomington,IL,40.4842027,-88.9936873,657,
+660,CUNA Mutual Group,3541,303,36%,20595,-,3300,Financials,"Insurance: Life, Health (stock)",-,Madison,WI,43.0730517,-89.4012302,683,
+661,Triumph Group,3533,-43,-,4415,1252,14309,Aerospace &  Defense,Aerospace and Defense,-,Berwyn,PA,40.045824,-75.4395931,601,
+662,TransDigm Group,3529,597,2%,9976,16021,9200,Aerospace &  Defense,Aerospace and Defense,-,Cleveland,OH,41.49932,-81.6943605,698,
+663,Allegheny Technologies,3525,-92,-,5185,2974,8600,Materials,Metals,-,Pittsburgh,PA,40.4406248,-79.9958864,707,
+664,Resolute Forest Products,3513,-84,-,4147,749,7700,Materials,Forest and Paper Products,-,Catawba,SC,34.8529233,-80.9111862,646,
+665,Acuity Brands,3505,322,11%,2900,5868,12500,Industrials,"Electronics, Electrical Equip.",-,Atlanta,GA,33.7489954,-84.3879824,679,
+666,Abercrombie & Fitch,3493,7,79%,2326,1651,22500,Retailing,Specialty Retailers: Apparel,-,New Albany,OH,40.0811745,-82.8087864,675,
+667,KLA-Tencor,3480,926,32%,5532,17073,5990,Technology,Semiconductors and Other Electronic Components,-,Milpitas,CA,37.4323341,-121.8995741,733,
+668,Weis Markets,3467,98,13%,1442,1102,23000,Food &  Drug Stores,Food and Drug Stores,-,Sunbury,PA,40.862585,-76.7944104,706,
+669,Puget Energy,3460,175,-44%,13691,-,3140,Energy,Utilities: Gas and Electric,-,Bellevue,WA,47.6101497,-122.2015159,700,
+670,Mednax,3458,320,-1%,5867,5251,14000,Health Care,Health Care: Pharmacy and Other Services,-,Fort Lauderdale,FL,26.1669711,-80.256595,697,
+671,Kar Auction Services,3458,362,63%,6984,7285,15488,Wholesalers,Wholesalers: Diversified,-,Carmel,IN,39.978371,-86.1180435,702,
+672,PolyOne,3452,-58,-135%,2705,3400,6400,Chemicals,Chemicals,-,Avon Lake,OH,41.5053178,-82.0282001,673,
+673,FMC,3442,536,156%,9206,10297,7000,Chemicals,Chemicals,-,Philadelphia,PA,39.9525839,-75.1652215,681,
+674,Edwards Lifesciences,3435,584,3%,5696,29372,12200,Health Care,Medical Products and Equipment,-,Irvine,CA,33.6845673,-117.8265049,734,
+675,Microchip Technology,3426,165,-49%,7687,21410,12656,Technology,Semiconductors and Other Electronic Components,-,Chandler,AZ,33.3061605,-111.8412502,897,
+676,Amerco,3422,398,-19%,9406,6767,20376,Transportation,"Trucking, Truck Leasing",-,Reno,NV,39.5296329,-119.8138027,682,
+677,Mercury General,3416,145,98%,5101,2538,4300,Financials,Insurance: Property and Casualty (Stock),-,Los Angeles,CA,34.0522342,-118.2436849,689,
+678,American National Insurance,3411,494,173%,26387,3150,4621,Financials,"Insurance: Life, Health (stock)",-,Galveston,TX,29.3013479,-94.7976958,688,
+679,Carters,3400,303,17%,2068,4902,20900,Apparel,Apparel,-,Atlanta,GA,33.7489954,-84.3879824,694,
+680,International Flavors & Fragrances,3399,296,-27%,4599,10804,7300,Chemicals,Chemicals,-,New York,NY,40.7127753,-74.0059728,711,
+681,Aarons,3384,293,110%,2692,3266,11900,Retailing,Specialty Retailers: Other,-,Atlanta,GA,33.7489954,-84.3879824,692,
+682,Alliant Energy,3382,457,23%,14188,9453,3989,Energy,Utilities: Gas and Electric,-,Madison,WI,43.0730517,-89.4012302,677,
+683,EQT,3378,1509,-,29523,12565,2067,Energy,Energy,-,Pittsburgh,PA,40.4406248,-79.9958864,,
+684,Monster Beverage,3369,821,15%,4791,32404,2589,"Food, Beverages &  Tobacco",Beverages,-,Corona,CA,33.8752935,-117.5664384,721,
+685,BMC Stock Holdings,3366,57,86%,1473,1314,9100,Wholesalers,Wholesalers: Diversified,-,Atlanta,GA,33.7489954,-84.3879824,712,
+686,Ryerson Holding,3365,17,-9%,1712,303,3600,Materials,Metals,-,Chicago,IL,41.8781136,-87.6297982,753,
+687,Equifax,3362,587,20%,7233,14152,10300,Business Services,Financial Data Services,-,Atlanta,GA,33.7489954,-84.3879824,703,
+688,Regal Beloit,3360,213,5%,4388,3225,23600,Industrials,"Electronics, Electrical Equip.",-,Beloit,WI,42.5083482,-89.0317765,690,
+689,Old Dominion Freight Line,3358,464,57%,3068,12107,19183,Transportation,"Trucking, Truck Leasing",-,Thomasville,NC,35.8826369,-80.0819879,731,
+690,American Water Works,3357,426,-9%,19482,14622,6900,Energy,Miscellaneous,-,Voorhees Township,NJ,39.8519447,-74.961517,678,
+691,BGC Partners,3353,52,-50%,5457,4119,9238,Financials,Securities,-,New York,NY,40.7127753,-74.0059728,771,
+692,Brinks,3347,17,-52%,3060,3609,62150,Business Services,Diversified Outsourcing Services,-,Richmond,VA,37.5407246,-77.4360481,730,
+692,Meritor,3347,17,-52%,3060,3609,62150,Business Services,Diversified Outsourcing Services,-,Richmond,VA,37.5407246,-77.4360481,730,
+694,Sentry Insurance Group,3346,289,30%,17302,-,4139,Financials,Insurance: Property and Casualty (Mutual),-,Stevens Point,WI,44.5235792,-89.574563,720,
+695,Sanderson Farms,3342,280,48%,1733,2718,14669,"Food, Beverages &  Tobacco",Food Production,-,Laurel,MS,31.6940509,-89.1306124,758,
+696,KapStone Paper & Packaging,3316,244,182%,3324,3341,6400,Materials,"Packaging, Containers",-,Northbrook,IL,42.1275267,-87.8289548,715,
+697,Gartner,3312,3,-98%,7283,10684,15131,Technology,Information Technology Services,-,Stamford,CT,41.0534302,-73.5387341,821,
+698,IAC/InterActiveCorp,3307,305,-,5868,12926,7000,Technology,Internet Services and Retailing,-,New York City,NY,40.7127753,-74.0059728,705,
+699,Tailored Brands,3304,97,288%,2000,1234,18200,Retailing,Specialty Retailers: Apparel,-,Houston,TX,29.7604267,-95.3698028,667,
+700,WABCO Holdings,3304,406,82%,4323,7194,14631,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Rochester Hills,MI,42.6583661,-83.1499322,759,
+701,Insperity,3300,84,28%,1064,2921,2900,Business Services,Diversified Outsourcing Services,-,Houston,TX,30.0575359,-95.1902986,739,
+702,Comerica,3289,743,56%,71567,16562,7999,Financials,Commercial Banks,-,Dallas,TX,32.7766642,-96.7969879,736,
+703,TriNet Group,3275,178,190%,2593,3245,2700,Business Services,Diversified Outsourcing Services,-,San Leandro,CA,37.7249296,-122.1560768,717,
+704,Avaya Holdings,3272,181,-,5898,2459,8700,Technology,Information Technology Services,-,Santa Clara,CA,37.3541079,-121.9552356,621,
+705,Ashland Global Holdings,3260,1,-,8618,4343,6500,Chemicals,Chemicals,-,Covington,KY,39.0836712,-84.5085536,516,
+706,Meritage Homes,3241,143,-4%,3251,1839,1605,Engineering &  Construction,Homebuilders,-,Scottsdale,AZ,33.4941704,-111.9260519,725,
+707,SkyWest,3204,429,-,5458,2838,16300,Transportation,Airlines,-,St. George,UT,37.0965278,-113.5684164,710,
+708,USG,3204,88,-83%,3851,5664,6800,Materials,"Building Materials, Glass",-,Chicago,IL,41.8781136,-87.6297982,566,
+709,Southwestern Energy,3203,1046,-,7521,2542,1575,Energy,"Mining, Crude-Oil Production",-,Spring,TX,30.0799405,-95.4171601,823,
+710,Keysight Technologies,3189,102,-70%,5933,9825,12600,Technology,"Scientific,Photographic and  Control Equipment",-,Santa Rosa,CA,38.440429,-122.7140548,745,
+711,Regal Entertainment Group,3163,112,-34%,2843,-,26047,Media,Entertainment,-,Knoxville,TN,35.9606384,-83.9207392,696,
+712,Mutual of America Life Insurance,3163,26,57%,21194,-,1079,Financials,"Insurance: Life, Health (Mutual)",-,New York,NY,40.7127753,-74.0059728,770,
+713,Paychex,3151,817,8%,6834,22128,13700,Business Services,Diversified Outsourcing Services,-,Rochester,NY,43.1565779,-77.6088465,737,
+714,Brinker International,3151,151,-25%,1414,1673,57906,"Hotels, Restaurants &  Leisure",Food Services,-,Dallas,TX,32.7766642,-96.7969879,684,
+715,Penn National Gaming,3148,474,333%,5235,2407,18754,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Wyomissing,PA,40.329537,-75.9652117,728,
+716,Gannett,3147,7,-87%,2570,1126,19000,Media,"Publishing, Printing",-,McLean,VA,38.9338676,-77.1772604,722,
+717,Visteon,3146,176,135%,2304,3409,10000,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Van Buren Charter Township,MI,42.2203171,-83.4838244,693,
+718,Pinnacle Foods,3144,532,152%,6578,6440,4900,"Food, Beverages &  Tobacco",Food Consumer Products,-,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877,708,
+719,Intuitive Surgical,3129,660,-10%,5758,46675,4444,Health Care,Medical Products and Equipment,-,Sunnyvale,CA,37.36883,-122.0363496,773,
+720,Continental Resources,3121,789,-,14200,22119,1127,Energy,"Mining, Crude-Oil Production",-,Oklahoma City,OK,35.4675602,-97.5164276,945,
+721,Service Corp. International,3095,547,209%,12865,6959,19468,Business Services,Miscellaneous,-,Houston,TX,29.7604267,-95.3698028,729,
+722,Scientific Games,3084,-242,-,7725,3743,8600,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Las Vegas,NV,36.1699412,-115.1398296,750,
+723,Albemarle,3072,55,-92%,7751,10269,5400,Chemicals,Chemicals,-,Charlotte,NC,35.2270869,-80.8431267,654,
+724,Atmos Energy,3063,396,13%,10750,9348,4565,Energy,Utilities: Gas and Electric,-,Dallas,TX,32.7766642,-96.7969879,670,
+725,Hologic,3059,756,128%,7980,10331,6233,Health Care,Medical Products and Equipment,-,Marlboro,MA,42.3459271,-71.5522874,755,
+726,H& R Block,3036,409,9%,2694,5316,44900,Financials,Diversified Financials,-,KCMO,MO,39.0997265,-94.5785667,727,
+727,Qorvo,3033,-17,-,6522,8912,8600,Technology,Semiconductors and Other Electronic Components,-,Greensboro,NC,36.0726354,-79.7919754,787,
+728,Steelcase,3032,125,-27%,1792,1580,12650,Household Products,"Home Equipment, Furnishings",-,Grand Rapids,MI,42.9633599,-85.6680863,718,
+729,Univision Communications,3016,655,199%,9599,0,4500,Media,Entertainment,-,New York,NY,40.7127753,-74.0059728,724,
+730,Worthington Industries,3014,205,42%,2325,2644,10000,Materials,Metals,-,Columbus,OH,39.9611755,-82.9987942,757,
+731,Timken,3004,203,33%,3402,3556,15006,Industrials,Industrial Machinery,-,North Canton,OH,40.875891,-81.4023356,781,
+732,A.O. Smith,2997,297,-9%,3197,10908,16100,Industrials,"Electronics, Electrical Equip.",-,Milwaukee,WI,43.0389025,-87.9064736,776,
+733,PriceSmart,2997,91,2%,1178,2540,7903,Retailing,General Merchandisers,-,San Diego,CA,32.715738,-117.1610838,748,
+734,Stifel Financial,2997,183,124%,21384,4256,7100,Financials,Securities,-,St. Louis,MO,38.6270025,-90.1994042,785,
+735,Brown-Forman,2994,669,-37%,4625,26160,4570,"Food, Beverages &  Tobacco",Beverages,-,Louisville,KY,38.2526647,-85.7584557,713,
+736,Cinemark Holdings,2992,264,4%,4471,4388,19915,Media,Entertainment,-,Plano,TX,33.0198431,-96.6988856,744,
+737,Granite Construction,2990,69,21%,1872,2228,3600,Engineering &  Construction,"Engineering, Construction",-,Watsonville,CA,36.910231,-121.7568946,808,
+738,Dycom Industries,2978,151,-4%,1841,3357,14365,Engineering &  Construction,"Engineering, Construction",-,Palm Beach Gardens,FL,26.8233946,-80.1386547,780,
+739,Clean Harbors,2945,101,-,3707,2758,12700,Business Services,Waste Management,-,Norwell,MA,42.1615157,-70.7927832,764,
+740,First Solar,2941,-166,-,6865,7416,4100,Energy,Energy,-,Tempe,AZ,33.4255104,-111.9400054,738,
+741,Scotts Miracle-Gro,2936,218,-31%,2747,4881,4700,Chemicals,Chemicals,-,Marysville,OH,40.2364486,-83.3671432,740,
+742,Cracker Barrel Old Country Store,2926,202,7%,1522,3821,73000,"Hotels, Restaurants &  Leisure",Food Services,-,Lebanon,TN,36.2081098,-86.2911024,747,
+743,Triple-S Management,2916,55,213%,3117,616,3517,Health Care,Health Care: Insurance and Managed Care,-,San Juan,Puerto Rico,18.4655394,-66.1057355,732,
+744,First Republic Bank,2912,758,13%,87781,14982,4025,Financials,Commercial Banks,-,SF,CA,37.7749295,-122.4194155,842,
+745,ServiceMaster Global Holdings,2912,510,229%,5646,6882,13000,Business Services,Diversified Outsourcing Services,-,Memphis,TN,35.1495343,-90.0489801,768,
+746,PC Connection,2912,55,14%,748,671,2505,Retailing,Specialty Retailers: Other,-,Merrimack,NH,42.8678693,-71.4948322,775,
+747,Genesco,2907,-112,-215%,1315,809,19350,Retailing,Specialty Retailers: Apparel,-,Nashville,TN,36.1626638,-86.7816016,751,
+748,Medical Mutual of Ohio,2895,8,-80%,2234,-,2244,Financials,"Insurance: Life, Health (Mutual)",-,Cleveland,OH,41.49932,-81.6943605,762,
+749,MSC Industrial Direct,2888,231,0%,2099,5178,6563,Wholesalers,Wholesalers: Diversified,-,Melville,NY,40.7934322,-73.4151214,752,
+750,Legg Mason,2887,227,-,8290,3437,3338,Financials,Securities,-,Baltimore,MD,39.2903848,-76.6121893,783,
+751,Hyster-Yale Materials Handling,2885,49,14%,1648,1157,6800,Industrials,Industrial Machinery,-,Cleveland,OH,41.49932,-81.6943605,792,
+752,Apollo Global Management,2884,629,56%,6991,5970,1047,Financials,Securities,-,New York,NY,40.7127753,-74.0059728,881,
+753,Citrix Systems,2883,-21,-104%,5820,12635,7500,Technology,Computer Software,-,Fort Lauderdale,FL,26.1224386,-80.1373174,661,
+754,Acadia Healthcare,2877,200,3153%,6425,3459,34050,Health Care,Health Care: Medical Facilities,-,Franklin,TN,35.9250637,-86.8688899,754,
+755,Varian Medical Systems,2862,250,-38%,3179,11198,6600,Health Care,Medical Products and Equipment,-,Palo Alto,CA,37.4418834,-122.1430195,691,
+756,Groupon,2859,14,-,1678,2437,6672,Technology,Internet Services and Retailing,-,Chicago,IL,41.8781136,-87.6297982,704,
+757,Aleris,2858,-211,-,2644,-,5400,Materials,Metals,-,Cleveland,OH,41.49932,-81.6943605,782,
+758,Sprague Resources,2855,30,190%,1363,542,981,Wholesalers,Wholesalers: Diversified,-,Portsmouth,NH,43.0717552,-70.7625532,837,
+759,Cooper Tire & Rubber,2855,95,-62%,2608,1491,9204,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Findlay,OH,41.04422,-83.6499321,743,
+760,Hain Celestial Group,2853,67,42%,2931,3333,7825,"Food, Beverages &  Tobacco",Food Consumer Products,-,Lake Success,NY,40.7706572,-73.7176312,,
+761,Penn Mutual Life Insurance,2851,594,182%,31660,-,3089,Financials,"Insurance: Life, Health (stock)",-,Horsham,PA,40.1784422,-75.1285061,799,
+762,Colony NorthStar,2842,-198,-568%,24786,3038,544,Financials,Real estate,-,Los Angeles,CA,34.0522342,-118.2436849,,
+763,ArcBest,2827,60,220%,1366,822,13000,Transportation,"Trucking, Truck Leasing",-,Fort Smith,AR,35.3859242,-94.3985475,774,
+764,Presidio,2818,4,-,2651,1438,2700,Technology,Information Technology Services,-,New York,NY,40.7127753,-74.0059728,,
+765,TRI Pointe Group,2810,187,-4%,3805,2487,1251,Engineering &  Construction,Homebuilders,-,Irvine,CA,33.6845673,-117.8265049,831,
+766,Annaly Capital Management,2809,1570,10%,101760,12095,152,Financials,Diversified Financials,-,New York,NY,40.7127753,-74.0059728,853,
+767,G-III Apparel Group,2807,62,20%,1915,1849,9961,Apparel,Apparel,-,New York,NY,40.7127753,-74.0059728,838,
+768,AMC Networks,2806,471,74%,5033,3140,2039,Media,Entertainment,-,New York,NY,40.7127753,-74.0059728,763,
+769,Enable Midstream Partners,2803,436,40%,11593,5935,1630,Energy,Pipelines,-,Oklahoma City,OK,35.4675602,-97.5164276,870,
+770,Ciena,2802,1262,1639%,3952,3719,5737,Technology,Network and Other Communications Equipment,-,Hanover,MD,39.1955042,-76.7228227,788,
+771,DSW,2800,67,-46%,1414,1798,12000,Retailing,Specialty Retailers: Apparel,-,Columbus,OH,39.9611755,-82.9987942,772,
+772,Convergys,2792,121,-15%,2415,2073,115000,Business Services,Diversified Outsourcing Services,-,Cincinnati,OH,39.1031182,-84.5120196,746,
+773,Park Hotels & Resorts,2791,2625,-,9714,5435,520,Financials,Real estate,-,McLean,VA,38.9338676,-77.1772604,,
+774,Pool,2788,192,29%,1101,5931,4000,Wholesalers,Wholesalers: Diversified,-,Covington,LA,30.4754702,-90.1009108,791,
+775,Fossil Group,2788,-478,-706%,1658,618,12300,Apparel,Apparel,-,Richardson,TX,32.9483335,-96.7298519,723,
+776,Dominos Pizza,2788,278,30%,837,10060,14200,"Hotels, Restaurants &  Leisure",Food Services,-,Ann Arbor,MI,42.2808256,-83.7430378,815,
+777,Crane,2786,172,40%,3594,5547,10600,Industrials,Industrial Machinery,-,Stamford,CT,41.0534302,-73.5387341,767,
+778,Caleres,2786,87,33%,1489,1444,12000,Retailing,Specialty Retailers: Apparel,-,St. Louis,MO,38.6270025,-90.1994042,790,
+779,Tempur Sealy International,2754,151,-21%,2694,2461,7000,Household Products,"Home Equipment, Furnishings",-,Lexington,KY,38.0405837,-84.5037164,709,
+780,Tetra Tech,2753,118,41%,1903,2734,16000,Engineering &  Construction,"Engineering, Construction",-,Pasadena,CA,34.1477849,-118.1445155,789,
+781,Illumina,2752,726,57%,5257,34754,6200,Technology,"Scientific,Photographic and  Control Equipment",-,San Diego,CA,32.715738,-117.1610838,833,
+782,Valmont Industries,2746,116,-33%,2602,3322,10690,Materials,Metals,-,Omaha,NE,41.2565369,-95.9345034,804,
+783,Hill-Rom Holdings,2744,134,8%,4529,5757,10000,Health Care,Medical Products and Equipment,-,Chicago,IL,41.8781136,-87.6297982,784,
+784,Unisys,2742,-65,-,2542,544,20500,Technology,Information Technology Services,-,Blue Bell,PA,40.1523309,-75.266289,756,
+785,Zions Bancorp.,2736,592,26%,66288,10362,10083,Financials,Commercial Banks,-,Salt Lake City,UT,40.7607793,-111.8910474,816,
+786,Sinclair Broadcast Group,2734,576,135%,6785,3185,8900,Media,Entertainment,-,Cockeysville,MD,39.4900013,-76.6585074,769,
+787,Louisiana-Pacific,2734,390,160%,2449,4173,5000,Materials,"Building Materials, Glass",-,Nashville,TN,36.1626638,-86.7816016,878,
+788,Mettler-Toledo International,2725,376,-2%,2550,14635,14600,Technology,"Scientific,Photographic and  Control Equipment",-,Columbus,OH,39.9611755,-82.9987942,810,
+789,Synopsys,2725,137,-49%,5396,12380,11686,Technology,Computer Software,-,Mountain View,CA,37.3860517,-122.0838511,827,
+790,Kemper,2723,121,620%,8376,2933,5550,Financials,Insurance: Property and Casualty (Stock),-,Chicago,IL,41.8781136,-87.6297982,803,
+791,Cabot,2717,241,62%,3314,3444,4500,Chemicals,Chemicals,-,Boston,MA,42.3600825,-71.0588801,829,
+792,Great Plains Energy,2708,-106,-137%,12458,6856,2709,Energy,Utilities: Gas and Electric,-,KCMO,MO,39.0997265,-94.5785667,778,
+793,Rent-A-Center,2703,7,-,1421,461,18300,Retailing,Specialty Retailers: Other,-,Plano,TX,33.0198431,-96.6988856,735,
+794,Hawaiian Holdings,2696,364,55%,2860,1986,6660,Transportation,Airlines,-,Honolulu,HI,21.3069444,-157.8583333,819,
+795,Revlon,2694,-183,-,3057,1085,7800,Household Products,Household and Personal Products,-,New York,NY,40.7127753,-74.0059728,855,
+796,Syneos Health,2672,-139,-223%,7286,3713,21000,Health Care,Health Care: Pharmacy and Other Services,-,Raleigh,NC,35.7795897,-78.6381787,,
+797,Public Storage,2669,1442,-1%,10733,34885,5600,Financials,Real estate,-,Glendale,CA,34.1425078,-118.255075,794,
+798,TTM Technologies,2659,124,256%,2782,1582,29000,Technology,Semiconductors and Other Electronic Components,-,Costa Mesa,CA,33.6412156,-117.9188221,800,
+799,Vectren,2657,216,2%,6239,5310,5500,Energy,Utilities: Gas and Electric,-,Evansville,IN,37.9715592,-87.5710898,820,
+800,Trimble,2654,121,-9%,4298,8920,9523,Technology,"Scientific,Photographic and  Control Equipment",-,Sunnyvale,CA,37.36883,-122.0363496,844,
+801,NOW,2648,-52,-,1749,1104,4463,Wholesalers,Wholesalers: Diversified,-,Houston,TX,29.7604267,-95.3698028,910,
+802,Spirit Airlines,2648,421,59%,4144,2577,6100,Transportation,Airlines,-,Miramar,FL,25.9860762,-80.3035602,860,
+803,ASGN,2626,158,62%,1810,4272,3800,Business Services,Temporary Help,-,Calabasas,CA,34.1367208,-118.6614809,822,
+804,Lincoln Electric Holdings,2624,248,25%,2407,5902,11000,Industrials,Industrial Machinery,-,Cleveland,OH,41.49932,-81.6943605,868,
+805,Prologis,2618,1652,37%,29481,33578,1565,Financials,Real estate,-,SF,CA,37.7749295,-122.4194155,801,
+806,Range Resources,2611,333,-,11729,3614,773,Energy,"Mining, Crude-Oil Production",-,Fort Worth,TX,32.7554883,-97.3307658,,
+807,Teledyne Technologies,2604,227,19%,3846,6682,10340,Aerospace &  Defense,Aerospace and Defense,-,Thousand Oaks,CA,34.1705609,-118.8375937,900,
+808,Vishay Intertechnology,2604,-20,-142%,3459,2682,23000,Technology,Semiconductors and Other Electronic Components,-,Malvern,PA,40.0362184,-75.5138118,858,
+809,Boston Properties,2602,462,-10%,19372,19018,740,Financials,Real estate,-,Boston,MA,42.3600825,-71.0588801,796,
+810,Applied Industrial Technologies,2594,134,353%,1388,2819,5554,Wholesalers,Wholesalers: Diversified,-,Cleveland,OH,41.49932,-81.6943605,806,
+811,Graham Holdings,2592,302,79%,4938,3312,16153,Business Services,Education,-,Arlington,VA,38.8816208,-77.0909809,813,
+812,Amica Mutual Insurance,2590,96,-39%,6355,-,3693,Financials,Insurance: Property and Casualty (Mutual),-,Lincoln,RI,41.9110123,-71.4418101,834,
+813,Concho Resources,2586,956,-,13732,22409,1203,Energy,"Mining, Crude-Oil Production",-,Midland,TX,31.9973456,-102.0779146,,
+814,ITT,2585,114,-39%,3700,4343,10000,Industrials,Industrial Machinery,-,White Plains,NY,41.0339862,-73.7629097,830,
+815,Kansas City Southern,2583,962,101%,9199,11320,7130,Transportation,Railroads,-,KCMO,MO,39.0997265,-94.5785667,854,
+816,MDC Holdings,2578,142,37%,2780,1567,1491,Engineering &  Construction,Homebuilders,-,Denver,CO,39.7392358,-104.990251,857,
+817,Evergy,2571,324,-7%,11624,7480,2205,Energy,Utilities: Gas and Electric,-,Topeka,KS,39.0473451,-95.6751576,793,
+818,Pinnacle Entertainment,2562,63,-,3950,1753,15377,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Las Vegas,NV,36.1699412,-115.1398296,840,
+819,Hawaiian Electric Industries,2556,165,-33%,13100,3742,3880,Energy,Utilities: Gas and Electric,-,Honolulu,HI,21.3069444,-157.8583333,839,
+820,TEGNA,2550,274,-37%,4962,2456,5283,Media,Entertainment,-,McLean,VA,38.9338676,-77.1772604,671,
+821,Southwest Gas Holdings,2549,194,28%,6237,3259,7771,Energy,Utilities: Gas and Electric,-,Las Vegas,NV,36.1699412,-115.1398296,817,
+822,Vista Outdoor,2547,-275,-287%,2977,936,6400,Household Products,Miscellaneous,-,Farmington,UT,40.9804999,-111.8874392,872,
+823,Bon-Ton Stores,2541,-91,-,1587,1,23300,Retailing,General Merchandisers,-,York,PA,39.9625984,-76.727745,779,
+824,Super Micro Computer,2530,69,-4%,1489,828,2699,Technology,"Computers, Office Equipment",-,San Jose,CA,37.3382082,-121.8863286,884,
+825,Plexus,2528,112,47%,1976,2012,16000,Technology,Semiconductors and Other Electronic Components,-,Neenah,WI,44.1858193,-88.462609,795,
+826,TrueBlue,2509,56,-,1109,1063,5500,Business Services,Temporary Help,-,Tacoma,WA,47.2528768,-122.4442906,766,
+827,Magellan Midstream Partners,2508,870,8%,7394,13315,1802,Energy,Pipelines,-,Tulsa,OK,36.1539816,-95.992775,889,
+828,Toro,2505,268,16%,1494,6621,6779,Industrials,Construction and Farm Machinery,-,Bloomington,MN,44.840798,-93.2982799,836,
+829,Akamai Technologies,2503,218,-31%,4603,12069,7650,Technology,Internet Services and Retailing,-,Cambridge,MA,42.3736158,-71.1097335,851,
+830,Moog,2498,141,12%,3091,2949,10675,Aerospace &  Defense,Aerospace and Defense,-,Elma Center,NY,42.8212288,-78.6341996,828,
+831,Vertex Pharmaceuticals,2489,264,-,3546,41379,2300,Health Care,Pharmaceuticals,-,Boston,MA,42.3600825,-71.0588801,,
+832,Equity Residential,2471,604,-86%,20571,22687,2683,Financials,Real estate,-,Chicago,IL,41.8781136,-87.6297982,825,
+833,Selective Insurance Group,2470,169,7%,7686,3566,2260,Financials,Insurance: Property and Casualty (Stock),-,Branchville,NJ,41.1464852,-74.7523874,865,
+834,AptarGroup,2469,220,7%,3138,5600,13200,Materials,"Packaging, Containers",-,Crystal Lake,IL,42.2411344,-88.3161965,856,
+835,Benchmark Electronics,2467,-32,-150%,2097,1455,10600,Technology,Semiconductors and Other Electronic Components,-,Scottsdale,AZ,33.4941704,-111.9260519,863,
+836,Columbia Sportswear,2466,105,-45%,2213,5351,6188,Apparel,Apparel,-,Portland,OR,45.5122308,-122.6587185,841,
+837,A. Schulman,2461,33,-,1754,1270,4900,Chemicals,Chemicals,-,Fairlawn,OH,41.127833,-81.609844,811,
+838,Verso,2461,-30,-,1732,580,4200,Materials,Forest and Paper Products,-,Miamisburg,OH,39.6428362,-84.2866083,786,
+839,Digital Realty Trust,2458,248,-42%,21404,21701,1429,Financials,Real estate,-,SF,CA,37.7749295,-122.4194155,901,
+840,GNC Holdings,2453,-149,-,1517,323,11500,Food &  Drug Stores,Food and Drug Stores,-,Pittsburgh,PA,40.4406248,-79.9958864,797,
+841,E*Trade Financial,2452,614,11%,63365,14692,3607,Financials,Securities,-,New York,NY,40.7127753,-74.0059728,930,
+842,Hovnanian Enterprises,2452,-332,-,1901,271,1905,Engineering &  Construction,Homebuilders,-,Red Bank,NJ,40.3470543,-74.0643065,765,
+843,Maximus,2451,209,17%,1351,4353,20400,Technology,Information Technology Services,-,Reston,VA,38.9586307,-77.3570028,832,
+844,Twitter,2443,-108,-,7413,21784,3372,Technology,Internet Services and Retailing,-,SF,CA,37.7749295,-122.4194155,802,
+845,Par Pacific Holdings,2443,73,-,1347,784,905,Energy,Petroleum Refining,-,Houston,TX,29.7604267,-95.3698028,974,
+846,Parexel International,2442,107,-31%,2313,-,18900,Health Care,Health Care: Pharmacy and Other Services,-,Waltham,MA,42.3764852,-71.2356113,824,
+847,RH,2440,2,-60%,1733,2050,4750,Retailing,Specialty Retailers: Other,-,Corte Madera,CA,37.9254806,-122.5274755,902,
+848,Nexstar Media Group,2432,475,419%,7482,3066,8737,Media,Entertainment,-,Irving,TX,32.8140177,-96.9488945,,
+849,Knight-Swift Transportation Holdings,2426,484,416%,7683,8199,25300,Transportation,"Trucking, Truck Leasing",-,Phoenix,AZ,33.4483771,-112.0740373,586,
+850,Red Hat,2412,254,27%,4535,26464,10500,Technology,Computer Software,-,Raleigh,NC,35.7795897,-78.6381787,920,
+851,Belden,2389,93,-27%,3841,2891,8800,Industrials,"Electronics, Electrical Equip.",-,St. Louis,MO,38.6270025,-90.1994042,846,
+852,Boyd Gaming,2384,189,-55%,4686,3589,19707,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Las Vegas,NV,36.1699412,-115.1398296,894,
+853,Primoris Services,2380,72,171%,1256,1287,7102,Engineering &  Construction,"Engineering, Construction",-,Dallas,TX,32.7766642,-96.7969879,938,
+854,Gardner Denver,2375,18,-,4621,6051,6400,Industrials,Industrial Machinery,-,Milwaukee,WI,43.0389025,-87.9064736,,
+855,Donaldson,2372,233,22%,1980,5851,13200,Industrials,Industrial Machinery,-,Minneapolis,MN,44.977753,-93.2650108,882,
+856,Party City Holdco,2372,215,83%,3455,1504,14600,Retailing,Specialty Retailers: Other,-,Elmsford,NY,41.0550969,-73.8201337,866,
+857,J.Crew Group,2370,-125,-,1201,0,8950,Retailing,Specialty Retailers: Apparel,-,New York,NY,40.7127753,-74.0059728,826,
+858,EnerSys,2367,160,18%,2293,2907,9400,Industrials,"Electronics, Electrical Equip.",-,Reading,PA,40.3356483,-75.9268747,861,
+859,Guess,2364,-8,-135%,1656,1667,14700,Retailing,Specialty Retailers: Apparel,-,Los Angeles,CA,34.0522342,-118.2436849,887,
+860,Patterson-UTI Energy,2357,6,-,5759,3892,8000,Energy,"Oil and Gas Equipment, Services",-,Houston,TX,29.7604267,-95.3698028,,
+861,WGL Holdings,2355,193,15%,6626,4296,1586,Energy,Energy,-,Leavenworth,WA,47.7510741,-120.7401385,848,
+862,Wolverine World Wide,2350,0,-100%,2399,2753,3700,Apparel,Apparel,-,Rockford,MI,43.1200272,-85.5600316,812,
+863,Xilinx,2349,623,13%,4741,18408,3831,Technology,Semiconductors and Other Electronic Components,-,San Jose,CA,37.3382082,-121.8863286,885,
+864,Vornado Realty Trust,2345,227,-75%,17398,12786,3989,Financials,Real estate,-,New York,NY,40.7127753,-74.0059728,809,
+865,Middleby,2336,298,5%,3340,6896,8493,Industrials,Industrial Machinery,-,Elgin,IL,42.0354084,-88.2825668,873,
+866,MPM Holdings,2331,0,-,2717,1282,5200,Chemicals,Chemicals,-,Waterford,NY,42.7925777,-73.6812293,879,
+867,Cleveland-Cliffs,2330,367,111%,2953,2067,2938,Energy,"Mining, Crude-Oil Production",-,Cleveland,OH,41.49932,-81.6943605,907,
+868,GGP,2328,657,-49%,23350,19581,1700,Financials,Real estate,-,Chicago,IL,41.8781136,-87.6297982,849,
+869,Cypress Semiconductor,2328,-81,-,3537,6021,6099,Technology,Semiconductors and Other Electronic Components,-,San Jose,CA,37.3382082,-121.8863286,959,
+870,Arch Coal,2325,239,-,1980,1913,3790,Energy,"Mining, Crude-Oil Production",-,St. Louis,MO,38.6270025,-90.1994042,946,
+871,GMS,2319,49,289%,1393,1254,4464,Wholesalers,Wholesalers: Diversified,-,Tucker,GA,33.8545479,-84.2171424,976,
+872,Waters,2309,20,-96%,5340,15553,7000,Technology,"Scientific,Photographic and  Control Equipment",-,Milford,MA,42.1398577,-71.5163049,899,
+873,H.B. Fuller,2306,58,-53%,4361,2513,5965,Chemicals,Chemicals,-,St Paul,MN,44.9537029,-93.0899578,913,
+874,Affiliated Managers Group,2305,690,46%,8702,10331,4400,Financials,Securities,-,West Palm Beach,FL,26.7153424,-80.0533746,892,
+875,PerkinElmer,2301,293,25%,6092,8367,11000,Technology,"Scientific,Photographic and  Control Equipment",-,Waltham,MA,42.3764852,-71.2356113,875,
+876,Edgewell Personal Care,2298,6,-97%,4189,2636,6000,Household Products,Household and Personal Products,-,Chesterfield,MO,38.6631083,-90.5770675,845,
+877,Maxim Integrated Products,2296,572,151%,4570,16935,7040,Technology,Semiconductors and Other Electronic Components,-,San Jose,CA,37.3382082,-121.8863286,891,
+878,Knights of Columbus,2290,108,22%,24954,-,926,Financials,"Insurance: Life, Health (Mutual)",-,New Haven,CT,41.308274,-72.9278835,880,
+879,IDEX,2287,337,24%,3400,10916,7167,Industrials,Industrial Machinery,-,Lake Forest,IL,42.2586342,-87.840625,906,
+880,DST Systems,2284,452,6%,2938,4962,14200,Business Services,Financial Data Services,-,KCMO,MO,39.0997265,-94.5785667,847,
+881,Chicos FAS,2282,101,11%,1088,1152,12350,Retailing,Specialty Retailers: Apparel,-,Fort Myers,FL,26.640628,-81.8723084,814,
+882,Nu Skin Enterprises,2279,129,-10%,1590,3888,48700,Household Products,Household and Personal Products,-,Provo,UT,40.2338438,-111.6585337,888,
+883,Herman Miller,2278,124,-9%,1306,1907,7478,Household Products,"Home Equipment, Furnishings",-,Zeeland,MI,42.8125246,-86.018651,874,
+884,NLV Financial,2275,260,67%,30209,-,1065,Financials,"Insurance: Life, Health (stock)",-,Montpelier,VT,44.2600593,-72.5753869,943,
+885,Curtiss-Wright,2271,215,15%,3236,5976,8600,Aerospace &  Defense,Aerospace and Defense,-,Charlotte,NC,35.2270869,-80.8431267,908,
+886,New Jersey Resources,2269,132,0%,3929,3513,1052,Energy,Energy,-,Wall Township,NJ,40.1606666,-74.0679753,970,
+887,REV Group,2268,31,4%,1254,1341,7800,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Milwaukee,WI,43.0389025,-87.9064736,957,
+888,Mueller Industries,2266,86,-14%,1320,1505,4125,Industrials,Industrial Machinery,-,Memphis,TN,35.1495343,-90.0489801,919,
+889,GEO Group,2263,146,-2%,4227,2531,18512,Business Services,Miscellaneous,-,Boca Raton,FL,26.3683064,-80.1289321,895,
+890,Allison Transmission Holdings,2262,504,135%,4205,5404,2700,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Indianapolis,IN,39.768403,-86.158068,984,
+891,OGE Energy,2261,619,83%,10413,6544,2413,Energy,Utilities: Gas and Electric,-,Oklahoma City,OK,35.4675602,-97.5164276,876,
+892,Cheesecake Factory,2261,157,13%,1333,2213,39100,"Hotels, Restaurants &  Leisure",Food Services,-,Calabasas,CA,34.1372953,-118.6541895,867,
+893,PRA Health Sciences,2259,87,28%,3358,5292,15800,Technology,"Scientific,Photographic and  Control Equipment",-,Raleigh,NC,35.7795897,-78.6381787,,
+894,Tupperware Brands,2256,-265,-219%,1388,2473,12000,Household Products,Household and Personal Products,-,Orlando,FL,28.5383355,-81.3792365,886,
+895,Euronet Worldwide,2252,157,-10%,3140,4058,6600,Business Services,Financial Data Services,-,Leawood,KS,38.966673,-94.6169012,950,
+896,FLEETCOR Technologies,2250,740,64%,11318,18186,7890,Business Services,Financial Data Services,-,Norcross,GA,33.969864,-84.2212938,988,
+897,Nationstar Mortgage Holdings,2247,30,58%,18036,1755,7600,Financials,Diversified Financials,-,Coppell,TX,32.9545687,-97.0150078,852,
+898,GoDaddy,2232,136,-,5738,10315,5990,Technology,Internet Services and Retailing,-,Scottsdale,AZ,33.4941704,-111.9260519,980,
+899,Blackhawk Network Holdings,2232,-156,-3444%,4140,2529,3190,Business Services,Financial Data Services,-,Pleasanton,CA,37.6624312,-121.8746789,966,
+900,Cboe Global Markets,2229,402,115%,5266,12860,889,Financials,Securities,-,Chicago,IL,41.8781136,-87.6297982,,
+901,Snyders-Lance,2227,149,898%,3618,-,5900,"Food, Beverages &  Tobacco",Food Consumer Products,-,Charlotte,NC,35.2270869,-80.8431267,862,
+902,Murphy Oil,2226,-312,-,9861,4471,1128,Energy,"Mining, Crude-Oil Production",-,El Dorado,AR,33.20763,-92.6662674,972,
+903,CDK Global,2220,296,24%,2883,8523,8900,Technology,Computer Software,-,Hoffman Estates,IL,42.0629915,-88.1227199,905,
+904,Texas Roadhouse,2220,132,14%,1331,4123,29524,"Hotels, Restaurants &  Leisure",Food Services,-,Louisville,KY,38.2526647,-85.7584557,942,
+905,Kirby,2214,313,122%,5127,4592,5775,Transportation,Shipping,-,Houston,TX,29.7604267,-95.3698028,,
+906,Square,2214,-63,-,2187,19501,2338,Business Services,Financial Data Services,-,SF,CA,37.7749295,-122.4194155,,
+907,Genesee & Wyoming,2208,549,289%,8035,4435,8000,Transportation,Railroads,-,Darien,CT,41.0771914,-73.4686858,937,
+908,Zayo Group Holdings,2200,86,-,8739,8474,3794,Telecommunications,Telecommunications,-,Boulder,CO,40.0149856,-105.2705456,,
+909,NewMarket,2198,191,-22%,1712,4731,2223,Chemicals,Chemicals,-,Richmond,VA,37.5407246,-77.4360481,921,
+910,99 Cents Only Stores,2194,-90,-,1537,0,17200,Retailing,Specialty Retailers: Other,-,Commerce,CA,34.0005691,-118.1597929,929,
+911,PCM,2193,3,-82%,740,98,4118,Wholesalers,Wholesalers: Electronics and Office Equipment,-,El Segundo,CA,33.9191799,-118.4164652,877,
+912,Federated Mutual Insurance,2181,218,-5%,7630,-,2388,Financials,Insurance: Property and Casualty (Mutual),-,Owatonna,MN,44.0855572,-93.2259349,918,
+913,HNI,2176,90,5%,1392,1568,9350,Household Products,"Home Equipment, Furnishings",-,Muscatine,IA,41.424473,-91.0432051,890,
+914,Hospitality Properties Trust,2172,215,-4%,7150,4165,450,Financials,Real estate,-,Newton,MA,42.3370413,-71.2092214,922,
+915,Greenbrier Cos.,2169,116,-37%,2398,1442,11917,Transportation,Transportation Equipment,-,Lake Oswego,OR,45.4156817,-122.7159726,777,
+916,Bio-Rad Laboratories,2160,122,370%,4273,7443,8150,Health Care,"Scientific,Photographic and  Control Equipment",-,Hercules,CA,38.0171441,-122.2885808,917,
+917,AvalonBay Communities,2159,877,-15%,18415,22711,3123,Financials,Real estate,-,Arlington,VA,38.8816208,-77.0909809,923,
+918,Renewable Energy Group,2158,-79,-278%,10056,497,853,Energy,Energy,-,Ames,IA,42.0307812,-93.6319131,924,
+919,Atlas Air Worldwide Holdings,2157,224,438%,4956,1538,2870,Transportation,Transportation and Logistics,-,Harrison,NY,41.0400135,-73.7144477,985,
+920,Teradata,2156,-67,-154%,2556,4797,10615,Technology,Information Technology Services,-,Dayton,OH,39.7589478,-84.1916069,859,
+921,LCI Industries,2148,133,3%,946,2603,9852,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Elkhart,IN,41.6819935,-85.9766671,,
+922,Teleflex,2146,153,-36%,6182,11806,14400,Health Care,Medical Products and Equipment,-,Wayne,PA,40.0415996,-75.3698895,973,
+923,Verisk Analytics,2145,555,-6%,6020,17162,7192,Business Services,Financial Data Services,-,Jersey City,NJ,40.7281575,-74.0776417,909,
+924,Popular,2145,108,-50%,44277,4253,7784,Financials,Commercial Banks,-,Hato Rey,Puerto Rico,18.4225782,-66.0509549,955,
+925,Workday,2143,-321,-,4947,26947,8200,Technology,Computer Software,-,Pleasanton,CA,37.6624312,-121.8746789,,
+926,Cooper Cos.,2139,373,36%,4859,11217,11800,Health Care,Medical Products and Equipment,-,Pleasanton,CA,37.6624312,-121.8746789,948,
+927,Express,2138,19,-66%,1188,564,9576,Retailing,Specialty Retailers: Apparel,-,Columbus,OH,39.9611755,-82.9987942,893,
+928,Teradyne,2137,258,-,3110,8901,4500,Technology,Semiconductors and Other Electronic Components,-,North Reading,MA,42.5750939,-71.0786653,,
+929,Werner Enterprises,2117,203,156%,1808,2645,12154,Transportation,"Trucking, Truck Leasing",-,Omaha,NE,41.2565369,-95.9345034,934,
+930,Oaktree Capital Group,2100,232,19%,9015,6188,930,Financials,Securities,-,Los Angeles,CA,34.0522342,-118.2436849,,
+931,Woodward,2099,201,11%,2757,4391,6829,Aerospace &  Defense,Aerospace and Defense,-,Fort Collins,CO,40.5852602,-105.084423,931,
+932,F5 Networks,2090,421,15%,2481,8943,4366,Technology,Network and Other Communications Equipment,-,Seattle,WA,47.6062095,-122.3320708,940,
+933,Valvoline,2084,304,11%,1915,4428,5600,Chemicals,Chemicals,-,Lexington,KY,38.0405837,-84.5037164,,
+934,Roadrunner Transportation Systems,2082,-107,-,863,98,4645,Transportation,"Trucking, Truck Leasing",-,Downers Grove,IL,41.8089191,-88.0111746,947,
+935,SemGroup,2082,-17,-919%,5377,1692,1220,Energy,Pipelines,-,Tulsa,OK,36.1539816,-95.992775,,
+936,Catalent,2075,110,-2%,3454,5474,10800,Health Care,Pharmaceuticals,-,Franklin Township,NJ,40.497604,-74.4884868,979,
+937,Quorum Health,2072,-114,-,1829,247,11250,Health Care,Health Care: Medical Facilities,-,Brentwood,TN,36.0331164,-86.7827772,,
+938,Universal,2071,106,-3%,2123,1215,24000,"Food, Beverages &  Tobacco",Tobacco,-,Richmond,VA,37.5407246,-77.4360481,904,
+939,Nordson,2067,296,9%,3415,7904,7532,Industrials,Industrial Machinery,-,Westlake,OH,41.4553232,-81.9179173,996,
+940,ResMed,2067,342,-3%,3469,14074,6080,Health Care,Medical Products and Equipment,-,San Diego,CA,32.715738,-117.1610838,986,
+941,Tower International,2066,48,23%,1260,570,7600,Motor Vehicles &  Parts,Motor Vehicles and Parts,-,Livonia,MI,42.36837,-83.3527097,927,
+942,Freds,2064,-140,-,655,114,7324,Food &  Drug Stores,Food and Drug Stores,-,Memphis,TN,35.1495343,-90.0489801,903,
+943,Foundation Building Materials,2061,83,-,1354,639,3782,Wholesalers,Wholesalers: Diversified,-,Tustin,CA,33.7420005,-117.8236391,,
+944,Kennametal,2058,49,-,2416,3276,10744,Industrials,Industrial Machinery,-,Pittsburgh,PA,40.4406248,-79.9958864,912,
+945,Autodesk,2057,-567,-,4114,27418,8800,Technology,Computer Software,-,San Rafael,CA,37.9735346,-122.5310874,928,
+946,Ply Gem Holdings,2056,68,-10%,1320,1481,9471,Materials,"Building Materials, Glass",-,Cary,NC,35.79154,-78.7811169,961,
+947,Central Garden & Pet,2055,79,77%,1307,2099,4050,Household Products,Household and Personal Products,-,Walnut Creek,CA,37.9100783,-122.0651819,989,
+948,Matson,2047,232,188%,2248,1222,1947,Transportation,Shipping,-,Honolulu,HI,21.3069444,-157.8583333,954,
+949,EchoStar,2039,393,118%,8750,5061,2100,Technology,Network and Other Communications Equipment,-,Englewood,CO,39.6477653,-104.9877597,719,
+950,Genesis Energy,2028,83,-27%,7138,2416,2100,Energy,Pipelines,-,Houston,TX,29.7604267,-95.3698028,,
+951,SVB Financial Group,2022,491,28%,51215,12694,2438,Financials,Commercial Banks,-,Santa Clara,CA,37.3541079,-121.9552356,,
+952,Itron,2018,57,80%,2106,2799,7150,Industrials,"Electronics, Electrical Equip.",-,Liberty Lake,WA,47.6743428,-117.1124241,933,
+953,Portland General Electric,2009,187,-3%,7838,3614,2906,Energy,Utilities: Gas and Electric,-,Portland,OR,45.5122308,-122.6587185,960,
+954,California Resources,2006,-266,-195%,6207,778,1450,Energy,"Mining, Crude-Oil Production",-,Los Angeles,CA,34.0522342,-118.2436849,,
+955,Esterline Technologies,2005,112,14%,3120,2174,13255,Aerospace &  Defense,Aerospace and Defense,-,Bellevue,WA,47.6101497,-122.2015159,932,
+956,Delta Tucker Holdings,2004,31,-,736,-,8800,Aerospace &  Defense,Aerospace and Defense,-,McLean,VA,38.9338676,-77.1772604,987,
+957,AMN Healthcare Services,1989,133,25%,1254,2714,2980,Health Care,Health Care: Pharmacy and Other Services,-,San Diego,CA,32.715738,-117.1610838,964,
+958,Griffon,1986,15,-50%,1874,866,4700,Materials,"Building Materials, Glass",-,New York,NY,40.7127753,-74.0059728,951,
+959,Valhi,1980,208,-,2908,2055,2790,Chemicals,Chemicals,-,Dallas,TX,32.7766642,-96.7969879,,
+960,Hexcel,1973,284,14%,2781,5791,6259,Aerospace &  Defense,Aerospace and Defense,-,Stamford,CT,41.0534302,-73.5387341,936,
+961,IDEXX Laboratories,1969,263,19%,1713,16663,7600,Health Care,Medical Products and Equipment,-,Westbrook,ME,43.6770252,-70.3711617,,
+962,Deluxe,1966,230,0%,2209,3539,5886,Media,"Publishing, Printing",-,Shoreview,MN,45.0791325,-93.1471667,978,
+963,M/I Homes,1962,72,27%,1865,888,1238,Engineering &  Construction,Homebuilders,-,Columbus,OH,39.9611755,-82.9987942,-,
+964,Kraton,1960,98,-9%,2933,1512,1931,Chemicals,Chemicals,-,Houston,TX,29.7604267,-95.3698028,,
+965,Stewart Information Services,1956,49,-12%,1406,1042,5960,Financials,Insurance: Property and Casualty (Stock),-,Houston,TX,29.7604267,-95.3698028,935,
+966,Marriott Vacations Worldwide,1952,227,65%,2906,3535,11000,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Orlando,FL,28.5383355,-81.3792365,994,
+967,SPX FLOW,1952,46,-,2689,2091,7000,Industrials,Industrial Machinery,-,Charlotte,NC,35.2270869,-80.8431267,939,
+968,ACCO Brands,1949,132,38%,2799,1353,6620,Household Products,"Home Equipment, Furnishings",-,Lake Zurich,IL,42.1969689,-88.0934108,,
+969,Echo Global Logistics,1943,13,694%,838,774,2453,Transportation,Transportation and Logistics,-,Chicago,IL,41.8781136,-87.6297982,,
+970,Cadence Design Systems,1943,204,1%,2419,10415,7214,Technology,Computer Software,-,San Jose,CA,37.3382082,-121.8863286,992,
+971,Nuance Communications,1939,-151,-,5932,4626,11600,Technology,Computer Software,-,Burlington,MA,42.5047161,-71.1956205,953,
+972,Finish Line,1934,-18,-183%,747,559,8200,Retailing,Specialty Retailers: Apparel,-,Indianapolis,IN,39.768403,-86.158068,968,
+973,TransUnion,1934,441,266%,5119,10441,5100,Business Services,Financial Data Services,-,Chicago,IL,41.8781136,-87.6297982,,
+974,ServiceNow,1933,-149,-,3398,28904,6222,Technology,Computer Software,-,Santa Clara,CA,37.3541079,-121.9552356,,
+975,Summit Materials,1933,122,231%,3787,3342,6000,Materials,"Building Materials, Glass",-,Denver,CO,39.7392358,-104.990251,,
+976,Engility Holdings,1932,-35,-,2026,899,8700,Aerospace &  Defense,Aerospace and Defense,-,Chantilly,VA,38.8942786,-77.4310992,915,
+977,Ferrellgas Partners,1930,-54,-,1610,303,3891,Energy,Energy,-,Overland Park,KS,38.9822282,-94.6707917,926,
+978,Interactive Brokers Group,1927,76,-10%,61162,4806,1228,Financials,Securities,-,Greenwich,CT,41.0262417,-73.6281964,,
+979,Stepan,1925,92,6%,1471,1875,2096,Chemicals,Chemicals,-,Northfield,IL,42.09975,-87.7808967,,
+980,Oceaneering International,1922,166,577%,3024,1827,8200,Energy,"Oil and Gas Equipment, Services",-,Houston,TX,29.7604267,-95.3698028,871,
+981,Cimarex Energy,1918,494,-,5043,8924,910,Energy,"Mining, Crude-Oil Production",-,Denver,CO,39.7392358,-104.990251,,
+982,Rexnord,1918,74,9%,3539,3086,8000,Industrials,Industrial Machinery,-,Milwaukee,WI,43.0389025,-87.9064736,958,
+983,Beazer Homes USA,1916,32,578%,2221,536,1100,Engineering &  Construction,Homebuilders,-,Atlanta,GA,33.7489954,-84.3879824,990,
+984,MKS Instruments,1916,339,224%,2414,6307,4923,Technology,Semiconductors and Other Electronic Components,-,Andover,MA,42.6583356,-71.1367953,,
+985,Vail Resorts,1907,211,41%,4111,8962,20150,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",-,Broomfield,CO,39.9205411,-105.0866504,,
+986,Ohio National Mutual,1907,26,-91%,41843,-,1300,Financials,"Insurance: Life, Health (stock)",-,Cincinnati,OH,39.1031182,-84.5120196,,
+987,TopBuild,1906,158,118%,1750,2725,8400,Engineering &  Construction,"Engineering, Construction",-,Daytona Beach,FL,29.2108147,-81.0228331,,
+988,Brown & Brown,1881,400,55%,5748,7025,8491,Financials,Insurance: Property and Casualty (Stock),-,Daytona Beach,FL,29.2108147,-81.0228331,,
+989,Aerojet Rocketdyne Holdings,1877,-9,-151%,2259,2113,5157,Aerospace &  Defense,Aerospace and Defense,-,El Segundo,CA,33.9191799,-118.4164652,,
+990,Barnes & Noble Education,1874,5,-,1300,323,13375,Retailing,Specialty Retailers: Other,-,Bernards,NJ,40.7066174,-74.5493284,,
+991,Superior Energy Services,1874,-206,-,3110,1300,6400,Energy,"Oil and Gas Equipment, Services",-,Houston,TX,29.7604267,-95.3698028,,
+992,VeriFone Systems,1871,-174,-,2322,1698,5600,Technology,Financial Data Services,-,San Jose,CA,37.3382082,-121.8863286,941,
+993,Childrens Place,1870,85,-17%,940,2330,9800,Retailing,Specialty Retailers: Apparel,-,Secaucus,NJ,40.7895453,-74.0565298,,
+994,Tribune Media,1867,194,1263%,8169,3544,6000,Media,Entertainment,-,Chicago,IL,41.8781136,-87.6297982,896,
+995,Healthcare Services Group,1866,88,14%,676,3204,55000,Health Care,Health Care: Pharmacy and Other Services,-,Bensalem,PA,40.0994425,-74.9325683,,
+996,SiteOne Landscape Supply,1862,55,78%,911,3084,3664,Wholesalers,Wholesalers: Diversified,-,Roswell,GA,34.0232431,-84.3615555,,
+997,Charles River Laboratories Intl,1858,123,-20%,2930,5118,11800,Health Care,Health Care: Pharmacy and Other Services,-,Wilmington,MA,42.5481714,-71.1724467,,
+998,CoreLogic,1851,152,43%,4077,3694,5900,Business Services,Financial Data Services,-,Irvine,CA,33.6845673,-117.8265049,952,
+999,Ensign Group,1849,41,-19%,1102,1354,21301,Health Care,Health Care: Medical Facilities,-,Mission Viejo,CA,33.5968913,-117.6581562,,
+1000,HCP,1848,414,-34%,14089,10910,190,Financials,Real estate,-,Irvine,CA,33.6845673,-117.8265049,798,

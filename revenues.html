@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=1"/>
+<title>Fortune 100 Company Information</title>
+<link rel="icon" type="image/ico" href="images/icon.png" />
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/d3.min.js"></script>
+<script src="js/functions.js"></script>
+
+<link rel="stylesheet" href="css/custom.css" />
+
+<script src="js/chosen.jquery.min.js"></script>
+<link rel="stylesheet" href="css/chosen.min.css">
+
+<!-- Reference the dataTables CSS and JavaScript files -->
+<link rel="stylesheet" type="text/css" href="css/datatables.min.css"/>
+<script type="text/javascript" src="js/datatables.min.js"></script>
+
+    <!-- Bootstrap core CSS - Standalone -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/font-icons.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+<style>
+
+/* The following CSS is related with the dataTable that gets displayed below the visualization */
+
+.dashmaingraph {
+	margin-bottom: 10px;
+}
+
+#outputTable {
+	padding: 0 10px;
+	font-family: arial,sans-serif;
+}
+
+.chosen-container {
+	text-align: left;
+	margin-right: 6px;
+}
+
+table#coTbl {
+	border-top: 1px solid gray;
+	width: 100%;
+}
+
+table#coTbl th {
+	margin: 0;
+	padding: 5px 8px;
+	background-color: #87ceeb;
+	text-align: left;
+	font-weight: normal;
+	font-size: 13px;
+}
+
+table#coTbl tr {
+	margin: 0;
+	padding: 0;
+}
+
+table#coTbl td {
+	margin: 0;
+	padding: 5px 8px;
+	border-bottom: 1px solid gray;
+	text-align: left;
+	font-size: 13px;
+}
+
+table#coTbl td:nth-of-type(4), table#coTbl td:nth-of-type(5), table#coTbl td:nth-of-type(6), table#coTbl td:nth-of-type(7), table#coTbl td:nth-of-type(9), table#coTbl td:nth-of-type(12) {
+    text-align: center;
+}
+
+.chosen-container {
+	max-width: 190px;
+}
+
+#dashmain_filter5_chosen {
+	width: 80px !important;
+}
+
+#dashmain_filter0_chosen {
+	width: 110px !important;
+}
+
+/* START CS Branding */
+.alert-danger {
+	color: #000;
+	background-color: #C591AD;
+	border-color: #BCE8F1;
+  }
+  .navbar {
+	color: #000;
+	background-color: #33B3E5;
+	border-color: #000;
+  }            
+  /* END CS Branding */
+
+</style>
+
+</head>
+
+
+
+<body>
+
+	<div class="alert alert-secondary mb-2" role="alert">
+	CS414 - Data Visualization Miguel Riano! <a href="https://github.com/miloriano" class="alert-link">Click here for Source Code!</a>
+	</div>
+
+    <div class="container">      
+      <div class="row">
+        <div class="col">
+          <div>
+            <div class="card-body d-flex flex-column align-items-start">
+			  <strong class="d-inline-block mb-2 text-primary">COMPANIES BY REVENUE SECTOR</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+	</div>	
+		
+    <div class="container">      
+      <div class="row mb-2">
+        <div class="col-md-6">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+			  <strong class="d-inline-block mb-2 text-primary">Revenue by Sector</strong>
+			  <embed type="text/html" src="revenuebysector.html" width="100%" height="500">
+              <!-- <h3 class="mb-0">
+                <a class="text-dark" href="http://news.mit.edu/2019/vivienne-sze-wins-edgerton-faculty-award-0417">Sierra Ruby wins Edgerton Faculty Award</a>
+              </h3>
+              <div class="mb-1 text-muted">April 17, 2019</div>
+              <p class="card-text mb-auto">EECS faculty member is recognized for technical innovation, educational excellence, and efforts to advance women and underrepresented minorities in her field.</p>
+              <a href="#">Continue reading</a> -->
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+			  <strong class="d-inline-block mb-2 text-primary">Revenue by Industry</strong>
+			  <embed type="text/html" src="revenuebyindustry.html" width="100%" height="500">
+              <!-- <h3 class="mb-0">
+                <a class="text-dark" href="#">Schwab calls for proposals from education leaders</a>
+              </h3>
+              <div class="mb-1 text-muted">January 14, 2019</div>
+              <p class="card-text mb-auto">MIT research center aims to support leaders in rigorously evaluating promising uses of education technology and innovative educational practices.</p>
+              <a href="#">Continue reading</a> -->
+            </div>
+          </div>
+        </div>        
+      </div>
+    </div>	
+
+		<!-- Footer -->
+		<footer class="page-footer font-small teal pt-4">
+			<div class="alert alert-danger mb-2 copyright" role="alert">        
+				Copyright 2021 Miguel Riano! - All Right Reserved
+			</div>
+		</footer>
+		<!-- Footer -->  
+	
+	<div class="container">
+	
+	</div>
+
+</body>
+</html>
+

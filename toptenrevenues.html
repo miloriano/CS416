@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+</head>
+
+<body>
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="toptencompanies"></div>
+
+<script>
+
+  // set the dimensions and margins of the graph
+  var margin = {top: 10, right: 10, bottom: 100, left: 150},
+      width = 460 - margin.left - margin.right,
+      height = 450 - margin.top - margin.bottom;
+  
+  // append the svg object to the body of the page
+  var svg = d3.select("#toptencompanies")
+    .append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+  
+  // Parse the Data
+  d3.csv("data/company-revenue.csv", function(data) {
+  
+  // sort data
+  data.sort(function(b, a) {
+    return a.Value - b.Value;
+  });
+  
+  // Add X axis
+  var x = d3.scaleLinear()
+    .domain([0, 500000])
+    .range([ 0, width]);
+  svg.append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x))
+    .selectAll("text")
+      .attr("transform", "translate(-10,0)rotate(-45)")
+      .style("text-anchor", "end");
+  
+  // Y axis
+  var y = d3.scaleBand()
+    .range([ 0, height ])
+    .domain(data.map(function(d) { return d.Company; }))
+    .padding(1);
+  svg.append("g")
+    .call(d3.axisLeft(y))
+  
+  // Lines
+  svg.selectAll("myline")
+    .data(data)
+    .enter()
+    .append("line")
+      .attr("x1", function(d) { return x(d.Value); })
+      .attr("x2", x(0))
+      .attr("y1", function(d) { return y(d.Company); })
+      .attr("y2", function(d) { return y(d.Company); })
+      .attr("stroke", "grey")
+  
+  // Circles
+  svg.selectAll("mycircle")
+    .data(data)
+    .enter()
+    .append("circle")
+      .attr("cx", function(d) { return x(d.Value); })
+      .attr("cy", function(d) { return y(d.Company); })
+      .attr("r", "7")
+      .style("fill", "#69b3a2")
+      .attr("stroke", "black")
+  })
+  
+  </script>
+
+</body>
+
